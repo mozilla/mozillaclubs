@@ -1,1 +1,0 @@
-# Mozilla DOT Clubs
