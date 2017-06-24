@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Zilla Slab Highlight';
+    src: url('WOFF/ZillaSlabHighlight-Regular.woff') format('woff'),
+         url('TTF/ZillaSlabHighlight-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Zilla Slab Highlight';
+    src: url('WOFF/ZillaSlabHighlight-Bold.woff') format('woff'),
+         url('TTF/ZillaSlabHighlight-Bold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
