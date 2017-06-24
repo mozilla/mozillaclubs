@@ -1,4 +1,4 @@
-# [Mozilla Clubs Website Template](https://github.com/mozilla/mozillaclubs/tree/master/designresources/website_templates_mozilla_clubs)
+# [Website Templates](https://github.com/mozilla/mozillaclubs/tree/master/designresources/website_templates_mozilla_clubs)
 
 Mozilla Clubs Website Templates are three websites based on the theme [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/) and edited by [Edoardo Viola](http://www.violaedoardo.com). 
 
