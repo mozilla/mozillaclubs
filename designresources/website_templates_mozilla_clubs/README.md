@@ -14,7 +14,7 @@ These themes features several content sections, a responsive portfolio grid with
 
 To begin using thes templates:
   1. Open the folder that contains the folder of your preference and choose one of these two options:
-    * Clone the repo: `git clone https://github.com/mozilla/mozillaclubs.git`
+    * Clone the repo
     * Fork the repo
   2. Edit the template, add your clubs logo, your logo, description, etc. 
   3. Video with further instructions to come!
