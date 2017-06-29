@@ -2,9 +2,9 @@
 
 These are three website templates based on the theme [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/) and edited by [Edoardo Viola](http://www.violaedoardo.com). 
 
-- [Template A]
-- [Template B]
-- [And template B without form]
+- [Template A](https://mozilla.github.io/mozillaclubs/designresources/website_templates_mozilla_clubs/template_a/)
+- [Template B](https://mozilla.github.io/mozillaclubs/designresources/website_templates_mozilla_clubs/template_b/)
+- [And template B with form](https://mozilla.github.io/mozillaclubs/designresources/website_templates_mozilla_clubs/template_b_form/)
 
 These themes features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
 
@@ -15,7 +15,7 @@ To begin using thes templates:
     * Clone the repo: `git clone https://github.com/mozilla/mozillaclubs.git`
     * Fork the repo
   2. Edit the template, add your clubs logo, your logo, description, etc. 
-  3. Video with further instructions to come.
+  3. Video with further instructions to come!
   
 ## Bugs and Issues
 
