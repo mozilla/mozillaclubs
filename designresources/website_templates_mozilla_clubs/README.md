@@ -2,6 +2,8 @@
 
 These are three website templates based on the theme [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/) and edited by [Edoardo Viola](http://www.violaedoardo.com). 
 
+![Imgur](http://i.imgur.com/oSweIOv.png)
+
 - [Template A](https://mozilla.github.io/mozillaclubs/designresources/website_templates_mozilla_clubs/template_a/)
 - [Template B](https://mozilla.github.io/mozillaclubs/designresources/website_templates_mozilla_clubs/template_b/)
 - [And template B with form](https://mozilla.github.io/mozillaclubs/designresources/website_templates_mozilla_clubs/template_b_form/)
