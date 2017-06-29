@@ -37,3 +37,7 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
 
 The Mozilla theme code made by Edoardo Viola released under a [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+
+Enjoy!
+
+![Imgur](http://i.imgur.com/pAtXATQ.gifv)
