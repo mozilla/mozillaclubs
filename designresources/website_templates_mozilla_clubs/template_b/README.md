@@ -1,6 +1,6 @@
 # [Mozilla Clubs Website Template](https://github.com/mozilla/mozillaclubs/tree/master/designresources/website_templates_mozilla_clubs)
 
-The Mozilla Clubs Website Template is a one page website for the Mozilla Clubs based from the theme [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/) and edited by [Edoardo Viola](http://www.violaedoardo.com). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+The Mozilla Clubs Website Template is a one page website for the Mozilla Clubs based from the theme [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/) and edited by [Edoardo Viola](http://www.violaedoardo.com). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals.
 
 ## Getting Started
 
