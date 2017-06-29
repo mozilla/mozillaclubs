@@ -40,4 +40,4 @@ The Mozilla theme code made by Edoardo Viola released under a [CC-BY-SA 4.0](htt
 
 Enjoy!
 
-![Imgur](http://i.imgur.com/pAtXATQ.gifv)
+![Imgur](http://i.imgur.com/pAtXATQ.gif)
