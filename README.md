@@ -8,4 +8,5 @@ There are currently 400+ registered Clubs that span 50+ countries. [Mozilla Club
 
 This includes a [Facebook group](https://www.facebook.com/groups/mozillaclubs/) with 1000+ participants, a [learning forum](https://forum.learning.mozilla.org/c/mozilla-clubs) with 80+ topic threads, a monthly Club Leaders Call with featured guests and an [event gallery](http://mozilla.github.io/clubs-events/) 
 
-In this Repository Clubs leaders can find, share, comment and remix projects around Mozilla Clubs. 
+In this Repository Clubs leaders can find, share, comment and remix projects around Mozilla Clubs around Design resources
+and Teaching activities.
