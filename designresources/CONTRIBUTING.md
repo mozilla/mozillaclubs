@@ -7,7 +7,10 @@ Thanks for your interest in contributing to this Repo!
 
 This project adheres to a <a href="https://github.com/ottagit/git_push_freshman/blob/master/CODE_OF_CONDUCT.md">code of conduct</a> to be upheld for a perpetual positive environment.
 
-## Filing an issue
+## Create/find new projects
+File issues with your design requests for the community design group, find collaborators, or find design tasks to tackle.
+
+If you're filing an issue make sure to use this template:
 
 ### Issue Template: 
 ```
