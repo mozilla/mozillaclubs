@@ -1,11 +1,7 @@
-Use the Mozilla community participation guidelines below, or write you own Code of Coduct [using this exercise](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).
-
----
-
 <!--- MOZILLA COMMUNITY PARTICIPATION GUIDLINES --->
 # Participation Guidelines
 
-This project, participating in the Mozilla Festival, respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, facilitators, space wranglers, staff, volunteers, vendors, and anyone else involved in making the MozFest possible.
+Mozilla Clubs respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, facilitators, staff, volunteers, vendors, and anyone else involved.
 
 ## How to treat each other
 
@@ -26,12 +22,12 @@ Mozilla-based activities should be inclusive and should support such diversity.
 
 ## Raising Issues
 
-If you believe you‘re experiencing practices which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact Zannah Marsh.
+If you believe you‘re experiencing practices which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact @Julia or @Carotejada.
 
-organisers reserve the right to refuse admission to anyone violating these policies, and/or take further action including expulsion from the event.
+Administrators reserve the right to refuse admission to anyone violating these policies, and/or take further action including expulsion from the event.
 
 
 ## Working in the Open
 
-Because working open is one of our core values, Mozilla Clubs program planning is done in the open on Github (check out our repo [here](https://github.com/mozilla/global-sprint)). We hope participants will benefit from this culture of transparency and collaboration during the Festival, and will continue to work with an open ethos in their projects after #mozsprint. Learn more about [how we work open at Mozilla](https://wiki.mozilla.org/Working_open).
+Because working open is one of our core values, Mozilla Clubs program uses Github as a platform to share, interact, and participate. We hope participants will benefit from this culture of transparency and collaboration, and continue to work with an open ethos in their projects. Learn more about [how we work open at Mozilla](https://wiki.mozilla.org/Working_open).
 <!--- END MOZILLA COMMUNITY PARTICIPATION GUIDLINES --->
