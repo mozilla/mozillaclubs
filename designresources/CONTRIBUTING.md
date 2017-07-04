@@ -30,3 +30,5 @@ If you're filing an issue make sure to use this template:
 [Design Needed, Developer Needed, Question, Staff Support Needed]
 ```
 
+
+NOTE: Once you've completed a project please include the source files!
