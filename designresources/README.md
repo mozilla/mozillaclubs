@@ -12,7 +12,6 @@ Don't forget to use the issue template below to make sure you are including all 
 
 Anyone can take (or make) a design issue, as long as it is related to Mozilla Clubs!
 
-NOTE: Once you've completed a project please include the source files!
 
 
 
