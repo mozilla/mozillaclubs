@@ -6,5 +6,6 @@ Start teaching others how to read, write and participate on the web with these f
 2. [Privacy and Security Situations Challenge](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations)
 
 by @barrosgeraldo
+
 **Description:** Explore and analyze everyday situations on the Internet and learn how to navigate safely using good 
 online security and privacy practices. This game is proudly part of Offline Games Challenge from Mozilla Foundation.
