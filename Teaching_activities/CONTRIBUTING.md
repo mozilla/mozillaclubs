@@ -1,0 +1,3 @@
+Share a link to an activity you created or tested
+Ask for contribution on a specific activity: ask contributors to test, readproof...
+
