@@ -8,7 +8,9 @@ Welcome to the Mozilla Clubs Design Resources Repo. Here you can:
   2. Share design resources for other club leaders to use.
   3. File issues with your design requests for the community design group, find collaborators, or find design tasks to tackle.
  
-Anyone can take (or make) a design issue, as long as it is related to Mozilla Clubs!
+Anyone can take (or make) a design issue, as long as it is related to Mozilla Clubs! Learn how to collaborate to this Repo in the [CONTRIBUTING]https://github.com/mozilla/mozillaclubs/blob/master/designresources/CONTRIBUTING.md file.
+
+
 
 ## Terms of use
 
