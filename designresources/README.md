@@ -1,5 +1,7 @@
 # Design resources to use, remix an share among Clubs
 
+![Imgur](http://i.imgur.com/bHyvdRH.png)
+
 Welcome to the Mozilla Clubs Design Resources Repo. Here you can:
 
   1. Find design resources created by community members which you can use, remix and share.
