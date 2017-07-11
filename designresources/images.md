@@ -1,12 +1,16 @@
 
-Imágenes para usar
+You are welcome to use this images under the [Mozilla Public License 2.0](https://github.com/mozilla/mozillaclubs/blob/master/LICENSE)
 
+![Imgur](http://i.imgur.com/F3w23cW.png)
+![Imgur](http://i.imgur.com/Wj9FuPR.jpg)
+![Imgur](http://i.imgur.com/FAGnnQz.jpg)
 ![Imgur](http://i.imgur.com/VrDKdIi.png)
 ![Imgur](http://i.imgur.com/3uBRxHJ.jpg)
 ![Imgur](http://i.imgur.com/JgllpDf.png)
 ![Imgur](http://i.imgur.com/u89mH5W.jpg)
 ![Imgur](http://i.imgur.com/oD7oxNa.png)
 ![Imgur](http://i.imgur.com/9Bqm7gc.jpg)
+![Imgur](http://i.imgur.com/zegVkCZ.jpg)
 ![Imgur](http://i.imgur.com/G0pWxGX.png)
 ![Imgur](http://i.imgur.com/gRk4ml3.png)
 ![Imgur](http://i.imgur.com/oohiKkv.jpg)
