@@ -21,4 +21,4 @@ If you know of any third party guides and would like to add them please let us k
 If your a designer or graphics artist please check our branding guidelines and follow all applicable rules. 
 
 ## For Curriculum Builders 
-If you have teaching activities you'd like to share you can find more information in our [teaching activities](Teach_activies/CONTRIBUTING.md) directory.
+If you have teaching activities you'd like to share you can find more information in our [teaching activities](Teaching_activies/CONTRIBUTING.md) directory.
