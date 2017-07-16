@@ -2,8 +2,6 @@
 
 A Mozilla Club brings people together locally to explore, participate in and create the open web in an engaging and collaborative way. They are groups that meet regularly and host events or meet-ups where creativity, collaboration, teaching and learning come together with one objective: developing digital skills.  
 
-Local people connecting with the world to learn, share, and grow. Mozilla Clubs make an impact that trickles from your community and reaches the world to spread a message.  
-
 This guide is meant only as a rough template to get you started. Please feel free to share your ideas or thoughts using other channels.  
 
 ## Participation Guidelines.  
