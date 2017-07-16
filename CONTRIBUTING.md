@@ -1,11 +1,15 @@
 # Welcome to Mozilla Clubs Contributing Guide.  
 
-Local people connecting with the world to learn, share, and grow. Mozilla Clubs make an impact that trickles from your community and reaches the world to spread a message of unity.  
+A Mozilla Club brings people together locally to explore, participate in and create the open web in an engaging and collaborative way. They are groups that meet regularly and host events or meet-ups where creativity, collaboration, teaching and learning come together with one objective: developing digital skills.  
+
+Local people connecting with the world to learn, share, and grow. Mozilla Clubs make an impact that trickles from your community and reaches the world to spread a message.  
 
 This guide is meant only as a rough template to get you started. Please feel free to share your ideas or thoughts using other channels.  
 
 ## Participation Guidelines.  
 Mozilla and it's projects including Mozilla Clubs strives to maintain an atmosphere of inclusion, friendship, and tolerance. Our belief is that by maintaining these values we can create a future that is bright, safe, and compassionate. Guidelines for our code of conduct can be found [here](CODE_OF_CONDUCT.md).  
+
+Please read our contributing guidelines for our [design resources](https://github.com/mozilla/mozillaclubs/blob/master/designresources/CONTRIBUTING.md) and our [teach activities](https://github.com/mozilla/mozillaclubs/blob/master/Teaching_activities/CONTRIBUTING.md) too.
 
 ## For Coders  
 If your a developer and would like to contribute feel free to clone or fork the Mozilla Clubs repo and make pull requests. If your a new GitHub user you can browse the resources below to get you started using Git Hub.  
