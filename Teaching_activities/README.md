@@ -7,7 +7,7 @@ At Mozilla Clubs we see teaching and learning happen in many forms like mentorin
 ### Learner centered
 The learner-centered approach shifts the focus from the teacher to the student, in a quest to develop learner's autonomy and independence. Your mission as a facilitator in a Mozilla Club event is to motivate, engage and help learners to connect their interests with opportunities in the digital world brings. Your role should be seen as a coach rather than an instructor. Instead of providing a lecture, you will share your knowledge in a way that inspires others to create, make, hack and tweak. 
 
-### Hans on
+### Hands on
 Mozilla Clubs sessions must be highly interactive events where participants can learn something new or engage in some hands-on making or experimentation. We don’t think the Web should be taught traditionally, with textbooks and a blackboard. The “sage on the stage” approach is directly oppositional to the distributed and participatory nature of the Web we champion. Instead, learners should start by doing what they eventually intend to master: building apps, remixing content, creating web pages, and more.
 
 ### Participatory and inclusive
