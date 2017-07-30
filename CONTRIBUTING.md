@@ -1,4 +1,6 @@
-# Welcome to Mozilla Clubs Contributing Guide.  
+# Welcome to Mozilla Clubs Contributing Guide
+
+![Imgur](http://i.imgur.com/VxI8E0C.jpg)
 
 A Mozilla Club brings people together locally to explore, participate in and create the open web in an engaging and collaborative way. They are groups that meet regularly and host events or meet-ups where creativity, collaboration, teaching and learning come together with one objective: developing digital skills.  
 
