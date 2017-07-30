@@ -18,7 +18,7 @@ If your a developer and would like to contribute feel free to clone or fork the 
 If you know of any third party guides and would like to add them please let us know by submitting an issue or a pull request.
 
 ## For Designers  
-If your a designer or graphics artist please check our branding guidelines and follow all applicable rules. 
+If your a designer or graphics artist please check our [communications guidelines](http://mozilla.github.io/learning-networks/clubs/comms_template/)and follow all applicable rules. 
 
 ## For Curriculum Builders 
 If you have teaching activities you'd like to share you can find more information in our [teaching activities](Teaching_activies/CONTRIBUTING.md) directory.
