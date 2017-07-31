@@ -185,12 +185,7 @@ function getContent(){
 // Highlights a section in the left-side navigation
 
 function selectSection(id){
-  if(sections.indexOf(id) < 0){
-    id = "introduction";
-  }
-
-  $("nav .selected").removeClass("selected");
-  $("nav a[href=#"+id+"]").addClass("selected");
+ 
 
   if(window.history.replaceState) {
     window.history.replaceState(null, null, "#" + id);
