@@ -122,9 +122,6 @@ function positionNav(){
 function buildContent(html){
   var pageTitle;
 
-  $("article").attr("id","introduction");
-  $("nav").append("<a class='selected' href='#introduction'>Introduction</a>");
-
   $(html).each(function(i,el){
 
     // Loops through all of the elements in the page
