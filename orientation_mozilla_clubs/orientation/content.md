@@ -1,12 +1,11 @@
 ## GUIDELINES
-
 ## MODULE 1. FUELING THE MOVEMENT        
 # LESSON 1. What is Mozilla?
 ### LESSON 2. Fueling the movement of the Open Web
 LESSON 3. Why Internet Health Matters
 ACTIVITIES
 
-## MODULE 2. MOZILLA CLUBS, A NETWORK OF LEADERS
+## MODULE 2. A NETWORK OF LEADERS
 LESSON 1. What is Mozilla Club?
 LESSON 2. Club Captain Role
 ACTIVITY
