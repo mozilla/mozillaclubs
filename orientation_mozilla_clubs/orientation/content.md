@@ -1,6 +1,11 @@
 ## GUIDELINES
+![Imgur](http://i.imgur.com/xsfPrK3.png)
+
+Thanks for joining the Mozilla Clubs community! These training modules are designed to provide you with the skills and knowledge you need in order to run a Mozilla Club in your local community. At the end of the training process you will learn about key issues, resources and opportunities related to Internet Health, The Mozilla Network and The Web Literacy Map. 
+
+
 ## MODULE 1. FUELING THE MOVEMENT        
-# LESSON 1. What is Mozilla?
+### LESSON 1. What is Mozilla?
 ### LESSON 2. Fueling the movement of the Open Web
 LESSON 3. Why Internet Health Matters
 ACTIVITIES
