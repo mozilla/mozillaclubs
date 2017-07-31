@@ -1,35 +1,22 @@
-#This is the title of this article
+## GUIDELINES
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis. In hac habitasse platea dictumst. Etiam sit amet lacus metus. Praesent sit amet velit nisl. Quisque mattis, ex non consequat scelerisque, lacus mauris pharetra nunc, nec consequat magna felis eu elit. Integer a consequat leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+## MODULE 1. FUELING THE MOVEMENT        
+# LESSON 1. What is Mozilla?
+### LESSON 2. Fueling the movement of the Open Web
+LESSON 3. Why Internet Health Matters
+ACTIVITIES
 
-* This is a bullet in an un-ordered list
-* This is a bullet in an un-ordered list
-* This is a bullet in an un-ordered list
+## MODULE 2. MOZILLA CLUBS, A NETWORK OF LEADERS
+LESSON 1. What is Mozilla Club?
+LESSON 2. Club Captain Role
+ACTIVITY
 
-##This is a heading
+## MODULE 3. BEST PRACTICES FOR RUNNING LOCAL EVENTS
+### LESSON 1. The impact of participant- centered activities
+LESSON 2. How to plan for fun and engaging events
+LESSON 3. Designing hands on activities
+LESSON 4. How to be Participatory & Inclusive
+ACTIVITY
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis. In hac habitasse platea dictumst. Etiam sit amet lacus metus. Praesent sit amet velit nisl. Quisque mattis, ex non consequat scelerisque, lacus mauris pharetra nunc, nec consequat magna felis eu elit. Integer a consequat leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+## NEXT STEPS
 
-###This is sub-heading
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis.
-
-1. This is a bullet point in a numbered list
-2. This is a bullet point in a numbered list
-3. This is a bullet point in a numbered list
-
-###This is another sub heading
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis.
-
-* [This is a link](http://example.com)
-* [This is another link](http://example.com)
-
-
-##Another heading
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis.
-
-## And one last one
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis.
