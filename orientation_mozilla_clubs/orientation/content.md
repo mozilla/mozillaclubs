@@ -1,3 +1,5 @@
+# Orientation for Mozilla Club Leaders
+
 ## GUIDELINES
 ![Imgur](http://i.imgur.com/xsfPrK3.png)
 
