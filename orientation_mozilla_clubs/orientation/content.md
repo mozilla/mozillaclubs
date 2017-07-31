@@ -6,6 +6,7 @@
 Thanks for joining the Mozilla Clubs community! These training modules are designed to provide you with the skills and knowledge you need in order to run a Mozilla Club in your local community. At the end of the training process you will learn about key issues, resources and opportunities related to Internet Health, The Mozilla Network and The Web Literacy Map. 
 
 **Guidelines for Training**
+
 - **The training is online and humanly supported.** In addition to this online platform, there is an instructor available through email to help you through your learning progress.
 
 - **Contribute ideas and engage with your peers.** The content in the training modules are articulated with online forums and hands-on activities that empower you to create, remix, interact and share.
