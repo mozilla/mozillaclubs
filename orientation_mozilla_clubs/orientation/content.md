@@ -32,9 +32,22 @@ Mozilla is a global community of technologists, thinkers and builders working to
 >    B. Discover Mozilla's principles
 >    C. Read and reflect on Mozilla's mission
 
-A. Learn about Mozilla's story
+# A. Learn about Mozilla's story
 
 In the late 90's, the Web faced threats of being controlled by a single integrated centralized organization: Microsoft. The web browser became part of Windows and it looked like the Internet was quickly developing into a group of products: Windows, Internet Explorer, Office, servers, file formats, and protocols. It became clear that an alternative browser was needed that would put the end user first. Which is how Firefox emerged — to shift the trajectory of the Internet. 
+
+![Imgur](http://i.imgur.com/eYPLrd0.jpg)
+[Austin Texas Mural. Photo by @Wapsi_org](https://twitter.com/Wapsi_org/status/509247725842759681/photo/1)
+
+Tens of millions of people installed the browser in no time. Mozilla and Firefox made an impact and helped spark a wave of thinking about “open” in modern life — open data, open government, open science, citizen journalism, open architecture, etc. 
+
+     To learn more about what Open means...
+
+        Review the definition in our Glossary
+        Read [this](https://openmatt.org/2011/04/06/how-to-work-open/) blog post about How to Work Open
+        Explore our free, online [Open Leadership course](http://mozilla.teachable.com/p/open-leadership-101/)
+        
+# Discover Mozilla's principles
 
 
 ### LESSON 2. Fueling the movement of the Open Web
