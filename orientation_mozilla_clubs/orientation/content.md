@@ -20,6 +20,23 @@ Thanks for joining the Mozilla Clubs community! These training modules are desig
 
 ## MODULE 1. FUELING THE MOVEMENT        
 ### LESSON 1. What is Mozilla?
+![Imgur](http://i.imgur.com/83ziP8D.jpg)
+
+[Photo - Mozilla Open Design used under CC-BY-SA by Mozilla](https://blog.mozilla.org/opendesign/and-then-there-were-five/)
+
+Mozilla is a global community of technologists, thinkers and builders working together to keep the Internet alive and accessible, so people worldwide can be informed contributors and creators of the Web. We believe this act of human collaboration across an open platform is essential to individual growth and our collective future.
+
+>Outline
+
+>    A. Learn about Mozilla's story
+>    B. Discover Mozilla's principles
+>    C. Read and reflect on Mozilla's mission
+
+A. Learn about Mozilla's story
+
+In the late 90's, the Web faced threats of being controlled by a single integrated centralized organization: Microsoft. The web browser became part of Windows and it looked like the Internet was quickly developing into a group of products: Windows, Internet Explorer, Office, servers, file formats, and protocols. It became clear that an alternative browser was needed that would put the end user first. Which is how Firefox emerged — to shift the trajectory of the Internet. 
+
+
 ### LESSON 2. Fueling the movement of the Open Web
 LESSON 3. Why Internet Health Matters
 ACTIVITIES
