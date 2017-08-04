@@ -1,5 +1,3 @@
-# Repository for Mozilla Clubs
-
 ![Imgur](http://i.imgur.com/61WeiVu.png)
 
 ## About Mozilla Clubs  
