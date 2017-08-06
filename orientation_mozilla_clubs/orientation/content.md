@@ -136,7 +136,7 @@ Our mission goes beyond building successful products. It is about working close 
 > A. The open web at risk
 > b. Introduction to the Open Leadership Training 101
 
-### A. The open web at risk
+# A. The open web at risk
 
 "Many of the principles we associate with the Web — openness, decentralization and the ability for anyone to publish without asking permission from others — are endangered.
 
@@ -148,7 +148,7 @@ Of course, changing this trajectory feels impossible to most people —just as i
 
 [Mozilla and the Future of the Open Internet.](http://recode.net/2014/11/10/mozilla-and-the-future-of-the-open-internet/) Mitchell Baker, Executive Chairwoman of the Mozilla Foundation and of Mozilla Corporation.
 
-### B. Introduction to the Open Leadership Training 101 
+# B. Introduction to the Open Leadership Training 101 
 
 Open leadership and working open are powerful tools to use as we work together keep our Internet— a dynamic, complex, interconnected ecosystem of people, ideas, information—healthy and open.
 
@@ -169,7 +169,7 @@ Upon completion of this training we suggest that you take our [Open Leadership 1
 > B. Internet Health Report
 > C. Five health markers 
 
-### A. What does Internet Health mean?
+# A. What does Internet Health mean?
 
 The internet was designed as tool for public use. It is a place where anyone can publish or make, without asking permission. The internet has grown as a platform for our collective creativity, collaboration and self expression.
 
@@ -177,7 +177,7 @@ We believe that In order to continue this, it needs to remain open and decentral
 
 At Mozilla, when we talk about Internet Health we refer to the state of our largest global resource in five key areas: decentralization, open innovation, online privacy and security, digital inclusion and web literacy . How do we measure it? How do we monitor and assess the health of the Internet?What tools do we use for a diagnosis?
 
-### B. The Internet Health Report
+# B. The Internet Health Report
 
 “Use your imagination to visualize what’s coming: we are increasingly surrounded by connected devices meant to ‘help’ with every aspect of our lives — eating, walking, driving, growing food, finding a parking spot, having sex, building a widget, having a baby (or not), running a city. This so-called Internet of Things [will include 20.8 billion devices by 2020,](hhttp://www.gartner.com/newsroom/id/3165317) all collecting and collating data constantly.” [Let’s Talk About Internet Health](https://blog.mozilla.org/press/2017/01/digital-citizens-lets-talk-about-internet-health/)
 
@@ -187,7 +187,7 @@ This is why Mozilla created and released the Internet Health Report. An open-sou
 
 We’re hoping that you will read it, comment, hack it and share it, to make it better.
 
-### c. Five health markers
+# c. Five health markers
 
 Mozilla chooses to focus on the following issues because they all have an influence on the social, technical, political and economic shape of the internet. Deeply intertwined, these issues — and the choices we make around them — have a deep impact on the health of the Internet, for better or for worse.
 
@@ -296,8 +296,76 @@ Project (20 minutes)
 
 
 ## MODULE 2. A NETWORK OF LEADERS
-LESSON 1. What is Mozilla Club?
-LESSON 2. Club Captain Role
+
+### LESSON 1. What is Mozilla Club?
+
+![Imgur](http://i.imgur.com/4564rIB.jpg)
+[Photo Mozfest 2015 used under CC BY by Mozilla Clubs.](https://www.flickr.com/photos/mozfest/albums/72157658649418943/page4)
+
+*"The best demonstrations of technology inspire us, not simply because of what technology can do, but because of what people can do with the know-how to improve their lives and communities". [Sam Dyson, Hive Chicago](http://hivechicago.org/the-web-is-a-human-platform-part-1/)
+
+The Internet is more than computers and code. The Internet is about people. And this is what Mozilla Clubs are all about: interacting with others to share, learn, teach and build upon platforms, to make things that matter. Our Clubs are local, in-person gatherings that focus on making the web relevant to their communities.
+
+> **Outline**
+
+> A. What is Mozilla Clubs?
+> B. Mozilla Clubs Model
+> C. Clubs have one mission and multiple pathways 
+
+
+# A. What is Mozilla Clubs
+
+Mozilla Clubs are small communities that meet regularly to help build a Healthy Internet. They empower individuals to be informed contributors of open innovation, online privacy and security, digital inclusion, decentralization, and web literacy. Clubs host events and gatherings where creativity, collaboration, innovation and learning come together with a goal to keep the internet open and accessible to all.
+
+**A Bit of History: From Maker Party to Mozilla Clubs**
+
+[Maker party](https://learning.mozilla.org/en-US/events) was a community led campaign where artists, educators, activists, coders, and entrepreneurs connected to trade ideas, network, innovate, educate and inspire people to take action towards protecting the Open Internet. 
+
+! [Imgur](http://i.imgur.com/hVi7nl6.png)
+
+During the campaign thousands of people participated in one-off events that included participatory activities, presentations, demonstrations and much more.
+
+After the success of Maker Party (over 5000 events in over 100 countries) we [decided to move forward](http://amiradhalla.com/2015/10/08/sustaining-the-movement-from-maker-party-to-mozilla-clubs/) with a strategy to making Web Literacy universal.
+
+The goal of Maker Parties was to light a spark around Web Literacy, and with it’s success we knew we were on to something. We started to think about how we could transform that spark into something that had a long-term impact on learners. That’s when Mozilla Clubs emerged, which allowed individuals to run multiple events over a longer period of time and build upon their learning together. Some of our community was already doing this with Maker Parties, so we were learning from their success.
+
+Mozilla Clubs launched in early 2015, and is still evolving as we learn how multiple languages, locations and cultures affect each individual Club. A big priority for us is to develop it with and for our global community.
+
+In 2015 we had 150+ clubs created in over 90 cities. By 2017 we more than doubled our community with 400+ clubs in over 50 countries. Club captains include classroom teachers, software developers/engineers, college students, community leaders, after school educators and more. Some clubs have direct ties to schools or other local learning institutions. Others take place in informal learning spaces like internet cafes, libraries, community centers and tech hubs.
+
+**A Network of Leaders **
+![Imgur](http://i.imgur.com/QoNm35y.jpg)
+[Photo: used under CC-BY-SA by Mozilla.](https://www.flickr.com/photos/amirad/34522262790/)
+
+Clubs are key nodes in the Mozilla community, which enables connections to other people with shared interests. By connecting with others, individual Mozilla club nodes have access to best practices and mentorship around the world.
+
+Mozilla Staff, Regional Coordinators, Club captains, facilitators and club members are among this network of leaders. They connect with each other to provide support and together cultivate their work through ongoing and participatory collaboration.
+
+Here is more information on each of those roles:
+
+* **Regional Coordinators** mentor multiple Club Captains in one geographic location to realize their full potential through clear, continued leadership and support. They are nominated and trained by Mozilla staff.
+
+* **Mozilla Clubs staff** empower Regional Coordinators and Club Captains through continued mentorship, clear leadership pathways and open leadership practices.
+
+* **Club members** collaborate with peers in their club to generate valuable contributions to Internet Health. It is important to note that all Clubs must have at least one Club Captain, but do not need to be connected with a Regional Coordinator.
+
+# B. Mozilla Clubs Model 
+
+Mozilla Clubs is a unique and flexible model that increases awareness about Internet Health in local communities. It provides a basic infrastructure with customizable activities, guides, templates and more.
+
+Here are some club examples that can be used as inspiration:
+
+[Mozilla Cagliari Club.](http://mozillacagliariclub.edovio.com/) A project that organizes regular workshops and free events to increase Web literacy at all levels, in Cagliari, Italy.
+
+
+
+Image: Club Leader Edoardo Viola, and participants. 
+
+
+
+
+
+### LESSON 2. Club Captain Role
 ACTIVITY
 
 ## MODULE 3. BEST PRACTICES FOR RUNNING LOCAL EVENTS
