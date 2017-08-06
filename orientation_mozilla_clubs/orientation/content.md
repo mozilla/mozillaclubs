@@ -211,7 +211,89 @@ Learn about some key findings about Open Innovation from the [Report](https://in
 
 *“In Europe this year, the Web is at mercy of lawmakers who will consider whether linking to news articles without permission should be a copyright infringement.” 
 
+* **Online Privacy and Security**
+
+The safety and security of the Internet impacts us all. We should be able to understand what is happening to our data, and have the ability to control who sees it and how it is used.
+
+**How to promote Online Privacy and Security?**
+
+* [Manage your preferences and applications](https://www.mozilla.org/en-US/internet-health/privacy-security/#control)
+* [Choose strong passwords and verification process](https://www.mozilla.org/en-US/internet-health/privacy-security/#security)
+* ]Understand surveillance and encryption](https://www.mozilla.org/en-US/internet-health/privacy-security/#surveillance)
+
+Learn about some key findings about Open Innovation from the [Report](https://internethealthreport.org/v01/decentralization/):
+
+*“Close to a third of the world’s population still have no data protection rights.“ “Just four in 10 (38%) of internet users trust that their activities on the internet are not being monitored.”
+
+*“There is more public scrutiny of surveillance laws than before, but it hasn’t stopped greater snooping powers from being proposed in Britain, Pakistan, France and several other countries.” 
+
+* **Digital inclusion**
+
+For the Internet to fulfill its greatest promise, it must reflect the diversity and experience of all people, everywhere.
+
+**How to practice inclusion?**
+
+* [Promote diversity in online environments](https://www.mozilla.org/en-US/internet-health/digital-inclusion/#diversity)
+* [Practice and model respectful exchanges online](https://www.mozilla.org/en-US/internet-health/digital-inclusion/#respect)
+* [Support universal access](https://www.mozilla.org/en-US/internet-health/digital-inclusion/#access)
+
+Some key findings about Digital Inclusion from the [Report](https://internethealthreport.org/v01/decentralization/):
+
+*“Unless policies change fast, only 16% of people in least developed countries will be online by 2020. 58% of people in the world can't afford an Internet connection. 39.5% of the world’s population cannot afford Internet on their phone or mobile device”
+
+*“Chinese is the second biggest language on the Internet in terms of users, but only 2% of Web content is in Chinese.”
+
+*"73% of Internet users have seen someone harassed online and 40% have personally experienced it." 
+
+* **Decentralization*
+Decentralization means the Internet is controlled by many. It’s millions of devices linked together in an open network. No one actor should ever own it, control it, or switch it off to anyone.
+
+How to promote decentralization?
+
+* [Speak up for Net Neutrality](https://www.mozilla.org/en-US/internet-health/decentralization/#neutrality)
+* [Try using tools that are interoperable](https://www.mozilla.org/en-US/internet-health/decentralization/#interoperability)
+* [Be informed about the tools you use online.](https://www.mozilla.org/en-US/internet-health/decentralization/#choice)
+* [Contribute new online content](https://www.mozilla.org/en-US/internet-health/decentralization/#local)
+
+Some key findings about Decentralization from the [Report](https://internethealthreport.org/v01/decentralization/):
+
+*“The Internet and the World Wide Web remain the biggest decentralized communication system humanity has ever seen.”
+
+*“A small handful of companies – including Facebook, Google, Apple, Tencent, AliBaba and Amazon – dominate the global Internet sector. In most EU member countries, Google controls more than 90 percent of the search market. In some countries, it controls as much as 97%”.
+
+*“As of December 2016, 47 countries currently have laws in place to protect Net Neutrality.” 
+
+* **Web literacy **
+
+People everywhere should have the knowledge they need to tap into the full power of the Internet – and use it to make their lives and the world better. This means everyone needs to be able to read, write, and participate online. A healthy Internet is yours to master.
+
+**How to promote Web literacy?**
+
+* [Make online contributions meaningful](https://www.mozilla.org/en-US/internet-health/web-literacy/#meaningful)
+* [Teach and mentor others effectively](https://www.mozilla.org/en-US/internet-health/web-literacy/#teaching)
+* [Cultivate digital citizenship](https://www.mozilla.org/en-US/internet-health/web-literacy/#citizenship)
+
+Some key findings about Web Literacy from the Report:
+
+*“82% of American middle-schoolers assessed couldn’t tell the difference between an ad labeled “sponsored content” and a real news story on a website. “
+
+*“Most people still don’t really understand how the Internet works at a basic level.”
+
+*“A small-scale survey in five countries showed that many Facebook users either don’t know the app is on the Internet, or have no idea there is an Internet beyond Facebook.” 
+
+**Web Literacy Map**
+
+In 2013, Mozilla, in collaboration with community stakeholders, designed the first [Web Literacy Map](http://mozilla.github.io/webmaker-whitepaper/) to identify a set of core web literacy skills, and set the stage for engaging individuals as citizens of the web.
+
+To learn more about the competencies and skills included in the most recent version of our Web Literacy map, read this [White paper](http://mozilla.github.io/webmaker-whitepaper/).
+
 ### ACTIVITIES
+Project (20 minutes)
+
+**Assignment 1:** Extract from Mozilla's Mission and Principles one sentence that resonates with you and remix this poster, changing the country, image and the text using the sentence you just chose. When you are done, share a link to your poster in the comment section below.
+
+**Assignment 2:** Spend 10 or 15 minutes with Network Pulse, a stream of projects, tools, ideas, exhibitions, events, news, and more from across our network. Try searching keywords like “code,” “learning,” “community,” or “inclusion.”Consider the following questions: What do you find? Which projects are most intriguing? Was there something you’re hoping to see that’s missing? 
+
 
 ## MODULE 2. A NETWORK OF LEADERS
 LESSON 1. What is Mozilla Club?
