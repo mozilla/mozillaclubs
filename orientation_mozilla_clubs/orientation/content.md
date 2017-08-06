@@ -100,7 +100,7 @@ An Internet that enriches the lives of individual human beings by giving them th
 > - Write a [Code of conduct](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/) for your Club. Learn How to do it in the Open Leadership Training Series.
 > - Share the participation guidelines with club members. [Download free posters](https://github.com/mozilla/mozillaclubs/tree/master/designresources/Mozilla_Posters) from our Github Repository.
 
-# C.Read and Reflect on Mozilla's mission
+# C. Read and Reflect on Mozilla's mission
 
 ![Imgur](http://i.imgur.com/BXVZxXE.jpg)
 [Photo: "And then there were five" - Mozilla Open Design used under CC-BY-SA by Mozilla](https://blog.mozilla.org/wp-content/uploads/2017/05/NN-save-the-internet.jpg)
@@ -158,6 +158,59 @@ Upon completion of this training we suggest that you take our [Open Leadership 1
 
 
 ### LESSON 3. Why Internet Health Matters
+![Imgur](http://i.imgur.com/qvbQnlD.jpg)
+[Photo used under CC-BY-SA by Mozilla.](https://www.mozilla.org/media/img/mozorg/internet-health/hub/hero-image.2872f0fef89b.jpg)
+
+"The Internet is an ecosystem. A living entity that billions of people depend on for knowledge, livelihood, self-expression, love…. The health of this system relies on – and influences – everyone it touches. This is why we want to diagnose what’s helping and what’s hurting it." [Internet Health Report](https://internethealthreport.org/v01/about/)
+
+> **Outline**
+
+> A. What does the Internet Health mean?
+> B. Internet Health Report
+> C. Five health markers 
+
+### A. What does Internet Health mean?
+
+The internet was designed as tool for public use. It is a place where anyone can publish or make, without asking permission. The internet has grown as a platform for our collective creativity, collaboration and self expression.
+
+We believe that In order to continue this, it needs to remain open and decentralized. With growing monopolies like Facebook and Google, and ongoing hacker threats we can’t help but wonder if this public resource can remain safe and dependable?
+
+At Mozilla, when we talk about Internet Health we refer to the state of our largest global resource in five key areas: decentralization, open innovation, online privacy and security, digital inclusion and web literacy . How do we measure it? How do we monitor and assess the health of the Internet?What tools do we use for a diagnosis?
+
+### B. The Internet Health Report
+
+“Use your imagination to visualize what’s coming: we are increasingly surrounded by connected devices meant to ‘help’ with every aspect of our lives — eating, walking, driving, growing food, finding a parking spot, having sex, building a widget, having a baby (or not), running a city. This so-called Internet of Things [will include 20.8 billion devices by 2020,](hhttp://www.gartner.com/newsroom/id/3165317) all collecting and collating data constantly.” [Let’s Talk About Internet Health](https://blog.mozilla.org/press/2017/01/digital-citizens-lets-talk-about-internet-health/)
+
+The Internet is our environment. How it works has a direct impact on our lives, our happiness, our privacy, our economies and democracies.
+
+This is why Mozilla created and released the Internet Health Report. An open-source research project, that aims to start a conversation with the citizens of the Internet, about what is healthy, unhealthy, and what lies ahead for the Internet.
+
+We’re hoping that you will read it, comment, hack it and share it, to make it better.
+
+### c. Five health markers
+
+Mozilla chooses to focus on the following issues because they all have an influence on the social, technical, political and economic shape of the internet. Deeply intertwined, these issues — and the choices we make around them — have a deep impact on the health of the Internet, for better or for worse.
+
+Mozilla Clubs focus on one or more issues, helping to shape the health of the Internet within local communities. 
+
+* **Open innovation**
+
+“When we use the word “Open” at Mozilla we mean that anyone can publish or invent online without asking for permission, and that the technologies used to run the Web are transparent and understandable.”
+
+**How to promote Open Innovation?**
+
+* [Support Open Source initiatives](https://www.mozilla.org/en-US/internet-health/open-innovation/#opensource)
+* [Engage in the copyright reform campaign](https://www.mozilla.org/en-US/internet-health/open-innovation/#copyright)
+* [Understand how to influence patent policy](https://www.mozilla.org/en-US/internet-health/open-innovation/#patents)
+
+Learn about some key findings about Open Innovation from the [Report](https://internethealthreport.org/v01/decentralization/):
+
+*“The big question now is: will the openness of the Internet last or wither? Policy threats in areas like copyright are multiplying.”
+
+*“Intellectual property laws stifle creativity and innovation if they are too restrictive about sharing and remixing – particularly for educational and non-profit use, which would be permitted under “fair use”.
+
+*“In Europe this year, the Web is at mercy of lawmakers who will consider whether linking to news articles without permission should be a copyright infringement.” 
+
 ### ACTIVITIES
 
 ## MODULE 2. A NETWORK OF LEADERS
