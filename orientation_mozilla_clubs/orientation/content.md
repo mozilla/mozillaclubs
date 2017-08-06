@@ -41,7 +41,7 @@ Thanks for joining the Mozilla Clubs community! These training modules are desig
 [Working Open.](http://mozilla.teachable.com/p/open-leadership-101) An approach and set of practices for creating and building stuff, anything from software and hardware to learning materials to scientific research. When you're working open, you may collaborate, share ideas and resources, and build powerful, diverse communities to support and direct projects. 
 
 ## MODULE 1. FUELING THE MOVEMENT        
-# LESSON 1. What is Mozilla?
+# LESSON 1. What is Mozilla? 
 ![Imgur](http://i.imgur.com/83ziP8D.jpg)
 
 [Photo - Mozilla Open Design used under CC-BY-SA by Mozilla](https://blog.mozilla.org/opendesign/and-then-there-were-five/)
@@ -526,6 +526,8 @@ In [this blog post](https://www.edutopia.org/blog/connected-classroom-informatio
 **3: A Reader-Centered Approach to Social Media Writing**
 
 In [this article](http://blog.bettercom.com/business-writing-advice/bid/84895/A-reader-centered-approach-to-social-media-writing) you will learn how to engage your readers by considering your readers needs, in order to attract their attention, help them understand your material, and ensure that their time is valued. 
+
+
 
 LESSON 2. How to plan for fun and engaging events
 LESSON 3. Designing hands on activities
