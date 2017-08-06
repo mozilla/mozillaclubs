@@ -17,7 +17,7 @@ Thanks for joining the Mozilla Clubs community! These training modules are desig
 
 - **Leverage the course material to start or strengthen your Mozilla Club.** Through the successful completion of these modules, quizzes and activities, and after submiting the feedback form, you will receive a course completion certificate and be prepared to lead a Mozilla Club.     
 
-Glossary
+**Glossary**
 
 [Club Captains (CC).](https://learning.mozilla.org/en-US/clubs/list/) Leaders who serve Club members in cultivating their Web Literacy and leadership skills by ensuring the ongoing, participatory learning of your Club.
 
@@ -127,8 +127,38 @@ Our mission goes beyond building successful products. It is about working close 
 * Historical documents about the [Mozilla project and mission](https://wiki.mozilla.org/Historical_Documents).
 
 ### LESSON 2. Fueling the movement of the Open Web
-LESSON 3. Why Internet Health Matters
-ACTIVITIES
+![Imgur](http://i.imgur.com/sJAWGkG.jpg)
+[Photo Mozfest2015 by Mozfest used under CC BY by Mozilla Clubs.](https://2015.mozillafestival.org/)
+
+*"Mozilla was born from the free and open source software movement. And, as a part of this larger movement, Mozilla helped make "open" mainstream. We toppled a monopoly, got the web back on an open track, and put open source software into the hands of hundreds of millions of people. It’s time for us to do this again: Fuel the movement to drive the next wave of open." [Fueling a Movement - Mark Surman, Executive Director of Mozilla Foundation](https://marksurman.commons.ca/2015/10/26/fueling-a-movement/)
+
+> **Outline**
+> A. The open web at risk
+> b. Introduction to the Open Leadership Training 101
+
+### A. The open web at risk
+
+"Many of the principles we associate with the Web — openness, decentralization and the ability for anyone to publish without asking permission from others — are endangered.
+
+It feels like the ability to act without permission on the Web is slipping away into “mobile” or “social” or “big data.” Your choice of device, products or programs will determine much of your online experiences — the software and content available to you, what payment systems you can use, where your data goes, which, if any, of your data you can manage, the way you identify yourself to the world. People and businesses are able to innovate within the framework determined by larger businesses. One can only act as you’re given permission.
+
+This is a threat. And it isn’t very different from the version of the Internet that was emerging years ago. The possibilities of mobile, social and big data are astonishing. But the current implementation drives all of us into a world of monitoring, control and opportunities determined by others . We don’t want to be owned and tracked by giant multinationals or governments, or told what of the Web we are allowed to enjoy. This is not the trajectory that we think the Internet should be on.
+
+Of course, changing this trajectory feels impossible to most people —just as it did years ago. But we believe we can have great technology, exciting products, great user experiences, new innovation, and freedom. That’s why Mozilla is here. And it is why we need people to help us accomplish our mission."
+
+[Mozilla and the Future of the Open Internet.](http://recode.net/2014/11/10/mozilla-and-the-future-of-the-open-internet/) Mitchell Baker, Executive Chairwoman of the Mozilla Foundation and of Mozilla Corporation.
+
+### B. Introduction to the Open Leadership Training 101 
+
+Open leadership and working open are powerful tools to use as we work together keep our Internet— a dynamic, complex, interconnected ecosystem of people, ideas, information—healthy and open.
+
+At Mozilla and across the Mozilla Network, we’re protecting and promoting Internet health in five key areas: Open Innovation, Digital Inclusion, Decentralization, Privacy and Security, and Web Literacy. Details about each are provided below.
+
+Upon completion of this training we suggest that you take our [Open Leadership 101 training](http://mozilla.teachable.com/p/open-leadership-101/), to get more experience with working open, learn about open methods, platforms and tools, and get inspired by successful projects which have appropriated this philosophy. 
+
+
+### LESSON 3. Why Internet Health Matters
+### ACTIVITIES
 
 ## MODULE 2. A NETWORK OF LEADERS
 LESSON 1. What is Mozilla Club?
