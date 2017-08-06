@@ -1,6 +1,7 @@
 # Orientation for Mozilla Club Leaders
 
-## GUIDELINES
+**INTRODUCTION**
+
 ![Imgur](http://i.imgur.com/xsfPrK3.png)
 
 Thanks for joining the Mozilla Clubs community! These training modules are designed to provide you with the skills and knowledge you need in order to run a Mozilla Club in your local community. At the end of the training process you will learn about key issues, resources and opportunities related to Internet Health, The Mozilla Network and The Web Literacy Map. 
@@ -246,9 +247,10 @@ Some key findings about Digital Inclusion from the [Report](https://internetheal
 *"73% of Internet users have seen someone harassed online and 40% have personally experienced it." 
 
 * **Decentralization*
+
 Decentralization means the Internet is controlled by many. It’s millions of devices linked together in an open network. No one actor should ever own it, control it, or switch it off to anyone.
 
-How to promote decentralization?
+**How to promote decentralization?**
 
 * [Speak up for Net Neutrality](https://www.mozilla.org/en-US/internet-health/decentralization/#neutrality)
 * [Try using tools that are interoperable](https://www.mozilla.org/en-US/internet-health/decentralization/#interoperability)
@@ -263,7 +265,7 @@ Some key findings about Decentralization from the [Report](https://internethealt
 
 *“As of December 2016, 47 countries currently have laws in place to protect Net Neutrality.” 
 
-* **Web literacy **
+* **Web literacy**
 
 People everywhere should have the knowledge they need to tap into the full power of the Internet – and use it to make their lives and the world better. This means everyone needs to be able to read, write, and participate online. A healthy Internet is yours to master.
 
@@ -273,7 +275,7 @@ People everywhere should have the knowledge they need to tap into the full power
 * [Teach and mentor others effectively](https://www.mozilla.org/en-US/internet-health/web-literacy/#teaching)
 * [Cultivate digital citizenship](https://www.mozilla.org/en-US/internet-health/web-literacy/#citizenship)
 
-Some key findings about Web Literacy from the Report:
+Some key findings about Web Literacy from the [Report](https://internethealthreport.org/v01/decentralization/):
 
 *“82% of American middle-schoolers assessed couldn’t tell the difference between an ad labeled “sponsored content” and a real news story on a website. “
 
@@ -283,12 +285,13 @@ Some key findings about Web Literacy from the Report:
 
 **Web Literacy Map**
 
+![Imgur](http://i.imgur.com/4ys8oSn.png)
+
 In 2013, Mozilla, in collaboration with community stakeholders, designed the first [Web Literacy Map](http://mozilla.github.io/webmaker-whitepaper/) to identify a set of core web literacy skills, and set the stage for engaging individuals as citizens of the web.
 
 To learn more about the competencies and skills included in the most recent version of our Web Literacy map, read this [White paper](http://mozilla.github.io/webmaker-whitepaper/).
 
 ### ACTIVITIES
-Project (20 minutes)
 
 **Assignment 1:** Extract from Mozilla's Mission and Principles one sentence that resonates with you and remix this poster, changing the country, image and the text using the sentence you just chose. When you are done, share a link to your poster in the comment section below.
 
@@ -357,10 +360,10 @@ Here are some club examples that can be used as inspiration:
 
 [Mozilla Cagliari Club.](http://mozillacagliariclub.edovio.com/) A project that organizes regular workshops and free events to increase Web literacy at all levels, in Cagliari, Italy.
 
-
-
+![Imgur](http://i.imgur.com/OXtPaKo.jpg)
 Image: Club Leader Edoardo Viola, and participants. 
 
+[Gambia Mozilla Club.] A project dedicated to Web Literacy that aims to support, mentor and inspire enthusiastic girls in The Gambia. The club has around 15 members, and 5 volunteers who contribute to facilitate the sessions. 
 
 
 
