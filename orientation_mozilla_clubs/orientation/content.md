@@ -41,7 +41,7 @@ Thanks for joining the Mozilla Clubs community! These training modules are desig
 [Working Open.](http://mozilla.teachable.com/p/open-leadership-101) An approach and set of practices for creating and building stuff, anything from software and hardware to learning materials to scientific research. When you're working open, you may collaborate, share ideas and resources, and build powerful, diverse communities to support and direct projects. 
 
 ## MODULE 1. FUELING THE MOVEMENT        
-### LESSON 1. What is Mozilla?
+# LESSON 1. What is Mozilla?
 ![Imgur](http://i.imgur.com/83ziP8D.jpg)
 
 [Photo - Mozilla Open Design used under CC-BY-SA by Mozilla](https://blog.mozilla.org/opendesign/and-then-there-were-five/)
@@ -54,7 +54,7 @@ Mozilla is a global community of technologists, thinkers and builders working to
 >    B. Discover Mozilla's principles
 >    C. Read and reflect on Mozilla's mission
 
-# A. Learn about Mozilla's story
+### A. Learn about Mozilla's story
 
 In the late 90's, the Web faced threats of being controlled by a single integrated centralized organization: Microsoft. The web browser became part of Windows and it looked like the Internet was quickly developing into a group of products: Windows, Internet Explorer, Office, servers, file formats, and protocols. It became clear that an alternative browser was needed that would put the end user first. Which is how Firefox emerged — to shift the trajectory of the Internet. 
 
@@ -75,7 +75,7 @@ To learn more about what Open means...
 - Read [this](https://openmatt.org/2011/04/06/how-to-work-open/) blog post about How to Work Open
 - Explore our free, online [Open Leadership course](http://mozilla.teachable.com/p/open-leadership-101/)
         
-# B. Discover Mozilla's principles
+### B. Discover Mozilla's principles
 
 ![Imgur](http://i.imgur.com/jdqOsok.jpg)
 [Photo used under CC-BY-SA by Mozilla](https://www.flickr.com/photos/mozfest/albums/72157658649418943/page4)
@@ -99,7 +99,7 @@ An Internet that enriches the lives of individual human beings by giving them th
 > - Write a [Code of conduct](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/) for your Club. Learn How to do it in the Open Leadership Training Series.
 > - Share the participation guidelines with club members. [Download free posters](https://github.com/mozilla/mozillaclubs/tree/master/designresources/Mozilla_Posters) from our Github Repository.
 
-# C. Read and Reflect on Mozilla's mission
+### C. Read and Reflect on Mozilla's mission
 
 ![Imgur](http://i.imgur.com/BXVZxXE.jpg)
 [Photo: "And then there were five" - Mozilla Open Design used under CC-BY-SA by Mozilla](https://blog.mozilla.org/wp-content/uploads/2017/05/NN-save-the-internet.jpg)
@@ -125,7 +125,7 @@ Our mission goes beyond building successful products. It is about working close 
 * Visuals of [Firefox and Mozilla Posters](http://www.foxkeh.com/downloads/).
 * Historical documents about the [Mozilla project and mission](https://wiki.mozilla.org/Historical_Documents).
 
-### LESSON 2. Fueling the movement of the Open Web
+# LESSON 2. Fueling the movement of the Open Web
 ![Imgur](http://i.imgur.com/sJAWGkG.jpg)
 [Photo Mozfest2015 by Mozfest used under CC BY by Mozilla Clubs.](https://2015.mozillafestival.org/)
 
@@ -135,7 +135,7 @@ Our mission goes beyond building successful products. It is about working close 
 > A. The open web at risk
 > b. Introduction to the Open Leadership Training 101
 
-# A. The open web at risk
+### A. The open web at risk
 
 "Many of the principles we associate with the Web — openness, decentralization and the ability for anyone to publish without asking permission from others — are endangered.
 
@@ -147,7 +147,7 @@ Of course, changing this trajectory feels impossible to most people —just as i
 
 [Mozilla and the Future of the Open Internet.](http://recode.net/2014/11/10/mozilla-and-the-future-of-the-open-internet/) Mitchell Baker, Executive Chairwoman of the Mozilla Foundation and of Mozilla Corporation.
 
-# B. Introduction to the Open Leadership Training 101 
+### B. Introduction to the Open Leadership Training 101 
 
 Open leadership and working open are powerful tools to use as we work together keep our Internet— a dynamic, complex, interconnected ecosystem of people, ideas, information—healthy and open.
 
@@ -156,7 +156,7 @@ At Mozilla and across the Mozilla Network, we’re protecting and promoting Inte
 Upon completion of this training we suggest that you take our [Open Leadership 101 training](http://mozilla.teachable.com/p/open-leadership-101/), to get more experience with working open, learn about open methods, platforms and tools, and get inspired by successful projects which have appropriated this philosophy. 
 
 
-### LESSON 3. Why Internet Health Matters
+# LESSON 3. Why Internet Health Matters
 ![Imgur](http://i.imgur.com/qvbQnlD.jpg)
 [Photo used under CC-BY-SA by Mozilla.](https://www.mozilla.org/media/img/mozorg/internet-health/hub/hero-image.2872f0fef89b.jpg)
 
@@ -168,7 +168,7 @@ Upon completion of this training we suggest that you take our [Open Leadership 1
 > B. Internet Health Report
 > C. Five health markers 
 
-# A. What does Internet Health mean?
+### A. What does Internet Health mean?
 
 The internet was designed as tool for public use. It is a place where anyone can publish or make, without asking permission. The internet has grown as a platform for our collective creativity, collaboration and self expression.
 
@@ -176,7 +176,7 @@ We believe that In order to continue this, it needs to remain open and decentral
 
 At Mozilla, when we talk about Internet Health we refer to the state of our largest global resource in five key areas: decentralization, open innovation, online privacy and security, digital inclusion and web literacy . How do we measure it? How do we monitor and assess the health of the Internet?What tools do we use for a diagnosis?
 
-# B. The Internet Health Report
+### B. The Internet Health Report
 
 “Use your imagination to visualize what’s coming: we are increasingly surrounded by connected devices meant to ‘help’ with every aspect of our lives — eating, walking, driving, growing food, finding a parking spot, having sex, building a widget, having a baby (or not), running a city. This so-called Internet of Things [will include 20.8 billion devices by 2020,](hhttp://www.gartner.com/newsroom/id/3165317) all collecting and collating data constantly.” [Let’s Talk About Internet Health](https://blog.mozilla.org/press/2017/01/digital-citizens-lets-talk-about-internet-health/)
 
@@ -186,7 +186,7 @@ This is why Mozilla created and released the Internet Health Report. An open-sou
 
 We’re hoping that you will read it, comment, hack it and share it, to make it better.
 
-# c. Five health markers
+### c. Five health markers
 
 Mozilla chooses to focus on the following issues because they all have an influence on the social, technical, political and economic shape of the internet. Deeply intertwined, these issues — and the choices we make around them — have a deep impact on the health of the Internet, for better or for worse.
 
@@ -289,7 +289,7 @@ In 2013, Mozilla, in collaboration with community stakeholders, designed the fir
 
 To learn more about the competencies and skills included in the most recent version of our Web Literacy map, read this [White paper](http://mozilla.github.io/webmaker-whitepaper/).
 
-### ACTIVITIES
+# ACTIVITIES
 
 **Assignment 1:** Extract from Mozilla's Mission and Principles one sentence that resonates with you and remix this poster, changing the country, image and the text using the sentence you just chose. When you are done, share a link to your poster in the comment section below.
 
@@ -298,7 +298,7 @@ To learn more about the competencies and skills included in the most recent vers
 
 ## MODULE 2. A NETWORK OF LEADERS
 
-### LESSON 1. What is Mozilla Club?
+# LESSON 1. What is Mozilla Club?
 
 ![Imgur](http://i.imgur.com/4564rIB.jpg)
 [Photo Mozfest 2015 used under CC BY by Mozilla Clubs.](https://www.flickr.com/photos/mozfest/albums/72157658649418943/page4)
@@ -311,10 +311,10 @@ The Internet is more than computers and code. The Internet is about people. And 
 
 > A. What is Mozilla Clubs?
 > B. Mozilla Clubs Model
-> C. Clubs have one mission and multiple pathways 
+> C. Clubs share one mission and multiple pathways 
 
 
-# A. What is Mozilla Clubs
+### A. What is Mozilla Clubs
 
 Mozilla Clubs are small communities that meet regularly to help build a Healthy Internet. They empower individuals to be informed contributors of open innovation, online privacy and security, digital inclusion, decentralization, and web literacy. Clubs host events and gatherings where creativity, collaboration, innovation and learning come together with a goal to keep the internet open and accessible to all.
 
@@ -350,7 +350,7 @@ Here is more information on each of those roles:
 
 * **Club members** collaborate with peers in their club to generate valuable contributions to Internet Health. It is important to note that all Clubs must have at least one Club Captain, but do not need to be connected with a Regional Coordinator.
 
-# B. Mozilla Clubs Model 
+### B. Mozilla Clubs Model 
 
 Mozilla Clubs is a unique and flexible model that increases awareness about Internet Health in local communities. It provides a basic infrastructure with customizable activities, guides, templates and more.
 
@@ -390,7 +390,7 @@ Photos: Mozilla Philippines Club members.
 * Recruit a diverse group of members to participate in your club. If a club has specific goals around gender inclusion, creating a safe space and/or age be intentional about how you recruit for the club.
 * Review the communication and branding guide and other guides for more tips on getting started with your club.
 
-# C. Clubs have one mission and multiple pathways
+### C. Clubs share one mission and multiple pathways
 
 Mozilla Clubs share Mozilla’s mission to “Protect the Open Web” and have the flexibility to follow different pathways in doing so. From advocacy campaigns to web literacy, club leaders inspire and engage people from their communities, fueling the movement in their various cultures and locals.
 
@@ -404,7 +404,7 @@ They incorporate internet health issues like Privacy & Security, Open Innovation
 * Moderating discussions
 * Participating online (Mozilla-related forums, mailing lists, wikis, websites, chat channels)
 
-### LESSON 2. Club Captain Role
+# LESSON 2. Club Captain Role
 ![Imgur](http://i.imgur.com/sWhTi3N.jpg)
 Photo used under CC-BY-SA by Mozilla.
 
@@ -417,7 +417,7 @@ Club Captains organize regular in-person gatherings that cultivate high-quality,
 > C. Support Club Captains get through the network
 > D. Examples of Club Captains 
 
-# A. What is a Club Captain?
+### A. What is a Club Captain?
 ![Imgur](http://i.imgur.com/Pu0fH1V.jpg)
 Photo used under CC-BY-SA by Mozilla.
 
@@ -427,7 +427,7 @@ Club Captain roles and responsibilities may vary in each club depending on it’
 * Participants are being empowered through engaging activities, peer learning and meaningful conversations through open practices.
 * They regularly share their experience and learning with the larger Mozilla Network.
 
-# B. Challenges and solutions Club Captains encounter 
+### B. Challenges and solutions Club Captains encounter 
 
 * **Defining an identity.** This is key to promote your club, attract participants and recruit volunteers. Creating a unique identity will help you to build credibility in case you plan to fundraise for it. Read this [Mozilla Clubs Comms Guidelines and Templates](http://mozilla.github.io/learning-networks/clubs/comms_template/).
 
@@ -455,7 +455,7 @@ Take a look at this creative expectation campaign from the Philippines Community
 
 * **Sharing with the world.** Keep posting about your experiences, events, volunteers, accomplishments and lessons learned. Read these guides about [Public Relations](http://mozilla.github.io/learning-networks/clubs/marketing-your-mozilla-club-pr-guide/) and [Social Media for marketing](http://mozilla.github.io/learning-networks/clubs/marketing-your-mozilla-club-social-media/) your Mozilla Club. Share event recaps on our [event reporter](http://mozilla.github.io/clubs-events/), [telegram](https://telegram.me/joinchat/BwUk1goEpt1QuBxsV_PyZQ), [discourse](https://forum.learning.mozilla.org/c/mozilla-clubs) and [Facebook group](https://www.facebook.com/groups/mozillaclubs/). 
 
-3. Support Club Captains get through the network
+### C. Support Club Captains get through the network
 
 Mozilla Club staff support Club Captains with
 
@@ -464,7 +464,7 @@ Mozilla Club staff support Club Captains with
     Curriculum that’s free, open and educator-tested.
     Guides and other useful resources.
 
-4. Clubs Captains examples
+### D. Clubs Captains examples
 
 Learn about the experience of Mark Shillitoe and Geraldo Barros, who are making an impact in their local community and beyond.
 
@@ -474,10 +474,59 @@ Learn about the experience of Mark Shillitoe and Geraldo Barros, who are making 
 
 **[Edoardo Viola](http://edovio.github.io)** is a Technical Office Manager for a little Biotech Corp and a Tutor within the University of Cagliari in Italy. Besides him formal activities, he's a singer, a community coach and help the citizens to build and improve their digital skills as he leading the very first Mozilla Club in Italy! 
 
-### ACTIVITY
+# ACTIVITY
+
+Re-read “Challenges and solutions Club Captains encounter, In Lesson 2 “Club Captain Role”. Now, think about your existent (or future club) and share your reflections about the following questions in the Discussion section below:
+
+- How do (or will) you face these challenges?
+- What other solutions have you used in the past to face similar situations?
 
 ## MODULE 3. BEST PRACTICES FOR RUNNING LOCAL EVENTS
-### LESSON 1. The impact of participant- centered activities
+
+# LESSON 1. The impact of participant- centered activities
+![Imgur](http://i.imgur.com/B44HZYp.jpg)
+Photo by @cctalvarez used under CC-BY-SA by Mozilla.
+
+At Mozilla, we encourage club leaders to curate curriculum, activities and gatherings according to people’s needs and wants. They should welcome all questions, encourage risk-taking, and understand the value of mistakes and failures as powerful learning moments. 
+
+> **Outline**
+
+> A. What does "participant centered" mean?
+> B. Key ideas from the participant-centered approach applied to Mozilla Clubs
+> C. Examples on the participant-centered approach
+
+### A. What does "participant centered" mean?
+
+The participant-centered approach shifts the focus from the leader to the participant, in a quest to develop their autonomy and independence. It is based on the [constructivist](http://www.learning-theories.com/constructivism.html) theory that emphasizes the interlocutor critical role in constructing meaning from new information and prior experience. 
+
+### B. Key ideas from the participant-centered approach applied to Mozilla Clubs
+
+Here are tips on how to use the participant-centered approach when facilitating a Club event:
+
+* **Act as a coach, not an instructor.** Your mission as a facilitator in a Mozilla Club event is to motivate, engage and help learners to connect their interests with opportunities in the digital world. Your role should be seen as a coach rather than an instructor. Instead of providing a lecture, you will share your knowledge in a way that inspires others to create, make, hack and tweak.
+
+* **Get to know your audience.** This is a MUST for you as a Club Leader. Whether you are speaking in a public event, or leading a workshop, your understanding of their particular talents, interests and abilities will help you to gain participants’ full engagement.
+
+* **Encourage peer-to-peer interaction and collaborative thinking.** The activities designed at Mozilla often embed constructive conversations among participants, as well as interaction and knowledge sharing. Your challenge as a leader is to trigger club member's contribution during the activity.
+
+* **Let participants choose what they are going to work on, based on their interests.** A powerful way to connect with club members is to organize brainstorm activities about projects, challenges and interests. Once you know what motivates them draw a plan to connect those interests with the web tools and digital skills you master.
+
+* **Design the physical space and consider time to improve the experience.** The disposition of the space influences human behavior. If your venue is organized in a traditional way, with hierarchies and individual desks, your participants might feel inhibited to interact and share. 
+
+### C. Examples on the participant-centered approach
+
+**1: Using interactivity in public speaking**
+
+Read [this article](https://blog.sli.do/seven-creative-ideas-for-interactive-conference-sessions/) to find some inspiration and learn about strategies to implement interactivity, and move from being a Lecturer to performing as a coach, engaging your audience and making of a public speaking session a remarkable experience.
+
+**2: A day in a participant-centered classroom**
+
+In [this blog post](https://www.edutopia.org/blog/connected-classroom-information-literacy), Andrew Marcinek shares a reflection about a day in his classroom. Read about his attempts to find new ways to connect students, give them more autonomy and remove himself as the focus of the stage.
+
+**3: A Reader-Centered Approach to Social Media Writing**
+
+In [this article](http://blog.bettercom.com/business-writing-advice/bid/84895/A-reader-centered-approach-to-social-media-writing) you will learn how to engage your readers by considering your readers needs, in order to attract their attention, help them understand your material, and ensure that their time is valued. 
+
 LESSON 2. How to plan for fun and engaging events
 LESSON 3. Designing hands on activities
 LESSON 4. How to be Participatory & Inclusive
