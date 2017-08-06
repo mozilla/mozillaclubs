@@ -36,18 +36,46 @@ Mozilla is a global community of technologists, thinkers and builders working to
 
 In the late 90's, the Web faced threats of being controlled by a single integrated centralized organization: Microsoft. The web browser became part of Windows and it looked like the Internet was quickly developing into a group of products: Windows, Internet Explorer, Office, servers, file formats, and protocols. It became clear that an alternative browser was needed that would put the end user first. Which is how Firefox emerged — to shift the trajectory of the Internet. 
 
+**A shift in history**
+
+The Mozilla project was [created in 1998](https://air.mozilla.org/code-rush/) with the release of the [Netscape browser](http://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html) suite source code. It was intended to harness the creative power of thousands of programmers on the Internet and fuel unprecedented levels of innovation in the browser market. Within the [first year](http://www-archive.mozilla.org/mozilla-at-one.html), new community members from around the world had already contributed new functionality, enhanced existing features and became engaged in the management and planning of the project itself.
+
+In this blog post Mitchell Baker, Executive Chairwoman of the Mozilla Foundation and of Mozilla Corporation, describes how, at that time, what we were trying to do seemed impossible. It took six years to create a fully formed, polished consumer product called Firefox. Consumers and industry experts quickly realized how much potential it had. 
+
 ![Imgur](http://i.imgur.com/eYPLrd0.jpg)
 [Austin Texas Mural. Photo by @Wapsi_org](https://twitter.com/Wapsi_org/status/509247725842759681/photo/1)
 
 Tens of millions of people installed the browser in no time. Mozilla and Firefox made an impact and helped spark a wave of thinking about “open” in modern life — open data, open government, open science, citizen journalism, open architecture, etc. 
 
-     To learn more about what Open means...
+To learn more about what Open means...
 
-        Review the definition in our Glossary
-        Read [this](https://openmatt.org/2011/04/06/how-to-work-open/) blog post about How to Work Open
-        Explore our free, online [Open Leadership course](http://mozilla.teachable.com/p/open-leadership-101/)
+- Review the definition in our Glossary
+- Read [this](https://openmatt.org/2011/04/06/how-to-work-open/) blog post about How to Work Open
+- Explore our free, online [Open Leadership course](http://mozilla.teachable.com/p/open-leadership-101/)
         
-# Discover Mozilla's principles
+# B. Discover Mozilla's principles
+
+![Imgur](http://i.imgur.com/jdqOsok.jpg)
+[Photo used under CC-BY-SA by Mozilla](https://www.flickr.com/photos/mozfest/albums/72157658649418943/page4)
+
+The Internet is an integral part of modern life and affects our lives in many ways. Billions of people depend on the Internet for knowledge, livelihood, self-expression and more. This is why it is a global public resource, and this is why it must remain open and accessible to all.
+
+The Mozilla Manifesto synthesizes [10 principles](https://www.mozilla.org/en-US/about/manifesto/) that articulate a vision for the Internet in which we are all equal.
+
+An Internet that enriches the lives of individual human beings by giving them the tools to shape their own experiences. An Internet that ensures privacy and security. An Internet where participation is possible through transparent community-based processes. An Internet that balances commercial profit and public benefit. 
+
+ It is key that all club leaders incorporate these principles, and a code of conduct into their practices, when:
+
+* Working in Mozilla spaces.
+* Working with other community participants virtually or co-located.
+* Representing Mozilla at public events.
+* Representing Mozilla in social media (official accounts, staff accounts, personal accounts, Facebook pages).
+* Participating in Mozilla offsites and trainings.
+* Participating in Mozilla-related forums, mailing lists, wikis, websites, chat channels, bugs, group or person-to-person  meetings, and Mozilla-related correspondence.
+
+> Where to start?
+> - Write a Code of conduct for your Club. Learn How to do it in the Open Leadership Training Series.
+> - Share the participation guidelines with club members. Download free posters from our Github Repository.
 
 
 ### LESSON 2. Fueling the movement of the Open Web
