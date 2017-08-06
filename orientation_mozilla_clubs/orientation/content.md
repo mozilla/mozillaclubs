@@ -48,7 +48,7 @@ Thanks for joining the Mozilla Clubs community! These training modules are desig
 
 Mozilla is a global community of technologists, thinkers and builders working together to keep the Internet alive and accessible, so people worldwide can be informed contributors and creators of the Web. We believe this act of human collaboration across an open platform is essential to individual growth and our collective future.
 
->Outline
+> Outline
 
 >    A. Learn about Mozilla's story
 >    B. Discover Mozilla's principles
