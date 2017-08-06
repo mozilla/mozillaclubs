@@ -17,6 +17,29 @@ Thanks for joining the Mozilla Clubs community! These training modules are desig
 
 - **Leverage the course material to start or strengthen your Mozilla Club.** Through the successful completion of these modules, quizzes and activities, and after submiting the feedback form, you will receive a course completion certificate and be prepared to lead a Mozilla Club.     
 
+Glossary
+
+[Club Captains (CC).](https://learning.mozilla.org/en-US/clubs/list/) Leaders who serve Club members in cultivating their Web Literacy and leadership skills by ensuring the ongoing, participatory learning of your Club.
+
+[Connected Learning.](http://clalliance.org/why-connected-learning/) Educational approach that makes learning relevant to all populations, to real life and real work, and to the realities of the digital age, where the demand for learning never stops.
+
+[Mozilla Clubs.](https://learning.mozilla.org/en-US/clubs) A Mozilla Club brings people together locally to teach, protect and build the open web in an engaging and collaborative way. Clubs function as an easy access point to get involved with Mozilla’s mission and network. They serve as a successful mobilization tactic that rallies a diverse and expansive global community to take action towards Mozilla’s core issues.
+
+[Mozilla Festival (MozFest).](https://mozillafestival.org/) Diverse, interactive and highly inclusive open web leadership "unconference" with sessions, activities and experiences suited for a range of interaction styles including demo fairs, maker spaces, youth participation, collaborative work environments, art exhibitions and more.
+
+[Internet Health Report.](https://internethealthreport.org/v01/about/) Open source initiative to document and explain what’s happening to the health of the Internet. Combining research from multiple sources, it collects data on five core issues and offers an initial prognosis for each: Privacy and security, Openness, Decentralization, Digital inclusion and Web Literacy.
+
+[Mozilla X-Ray Goggles.](https://goggles.mozilla.org/) This educational tool works as a code inspector that lets you see how a web page works, and then edit the underlying code to make it look differently. The best part: you don't need any prior coding experience!
+
+[Mozilla Thimble.](https://thimble.mozilla.org/)  Web-based code editor, designed to give novice webmakers an easy-to-use online tool to quickly build and share webpages. It has taught hundreds of thousands of people across more than 200 countries. It’s been localized into 33+ languages, and used in classrooms, at hackathons and at home. Thimble has also proved to be more than an educational code editor—it’s a creative platform. Thimble users can create personal webpages, comic strips, post cards, games and more.
+
+[Regional Coordinators RC.](https://learning.mozilla.org/en-US/clubs/coordinators) Regional Coordinators mentor multiple Club Captains in one geographic location to realize their full potential through clear, continued leadership and support. They are nominated and trained by Mozilla staff.
+
+[Open Source Technology.](https://opensource.org/) Research, software and standards that can be freely used, changed, and shared (in modified or unmodified form) by anyone.Created by many people, and distributed under licenses which provide the rights to study, change, and distribute to anyone and for any purpose.
+
+[Web Literacy Map.](https://mozilla.github.io/content/web-lit-whitepaper/) A framework that synthesizes the core web literacy & 21st Century skills, and sets the stage for engaging individuals as makers on the web.
+
+[Working Open.](http://mozilla.teachable.com/p/open-leadership-101) An approach and set of practices for creating and building stuff, anything from software and hardware to learning materials to scientific research. When you're working open, you may collaborate, share ideas and resources, and build powerful, diverse communities to support and direct projects. 
 
 ## MODULE 1. FUELING THE MOVEMENT        
 ### LESSON 1. What is Mozilla?
