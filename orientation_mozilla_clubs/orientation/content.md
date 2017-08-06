@@ -97,9 +97,34 @@ An Internet that enriches the lives of individual human beings by giving them th
 * Participating in Mozilla-related forums, mailing lists, wikis, websites, chat channels, bugs, group or person-to-person  meetings, and Mozilla-related correspondence.
 
 > Where to start?
-> - Write a Code of conduct for your Club. Learn How to do it in the Open Leadership Training Series.
-> - Share the participation guidelines with club members. Download free posters from our Github Repository.
+> - Write a [Code of conduct](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/) for your Club. Learn How to do it in the Open Leadership Training Series.
+> - Share the participation guidelines with club members. [Download free posters](https://github.com/mozilla/mozillaclubs/tree/master/designresources/Mozilla_Posters) from our Github Repository.
 
+# C.Read and Reflect on Mozilla's mission
+
+![Imgur](http://i.imgur.com/BXVZxXE.jpg)
+[Photo: "And then there were five" - Mozilla Open Design used under CC-BY-SA by Mozilla](https://blog.mozilla.org/wp-content/uploads/2017/05/NN-save-the-internet.jpg)
+
+*“Our mission is to ensure the Internet is a global public resource, open and accessible to all. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent."*
+
+Our mission goes beyond building successful products. It is about working close together with people, fueling a worldwide movement to keep the Internet healthy, open and accessible to all. In addition to Firefox we have developed tools and diverse programs from education to advocacy, to accomplish this mission.
+
+**There are multiple ways to get involved:**
+
+* [Contribute](https://www.mozilla.org/en-US/contribute/), learn, collaborate and share your skills with a global community of Mozillians — coders, organizers, activists and more —. Your [contribution](https://www.mozilla.org/en-US/contribute/signup/) can start with something simple like using Firefox in your smartphone, or something a bit more challenging like finding, reporting and/or fixing errors via Bugzilla.
+
+* [Connect](https://www.mozilla.org/en-US/contact/communities/) with other Mozillians in your area to see what's going on with Mozilla near you. Find a site in your language (or start your own), see upcoming events and learn about other contribution opportunities.
+
+* [Get involved](https://network.mofoprod.net/get-involved/) in new projects like fellowship opportunities, events, trainings, research projects, and more!
+
+* [Help to shape](https://network.mofoprod.net/projects/) a Healthy Internet by working on projects related to Open Innovation, Digital Inclusion, Decentralization, Privacy/Security and Web Literacy.
+
+**Other resources**
+
+* A comprehensive list of Mozilla milestones in the form of a [Timeline](https://wiki.mozilla.org/Timeline).
+* An [interactive archive](http://mozillamemory.org/index.php) of images and experiences with Mozilla products.
+* Visuals of [Firefox and Mozilla Posters](http://www.foxkeh.com/downloads/).
+* Historical documents about the [Mozilla project and mission](https://wiki.mozilla.org/Historical_Documents).
 
 ### LESSON 2. Fueling the movement of the Open Web
 LESSON 3. Why Internet Health Matters
