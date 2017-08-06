@@ -1,7 +1,5 @@
 # Orientation for Mozilla Club Leaders
 
-**INTRODUCTION**
-
 ![Imgur](http://i.imgur.com/xsfPrK3.png)
 
 Thanks for joining the Mozilla Clubs community! These training modules are designed to provide you with the skills and knowledge you need in order to run a Mozilla Club in your local community. At the end of the training process you will learn about key issues, resources and opportunities related to Internet Health, The Mozilla Network and The Web Literacy Map. 
@@ -361,15 +359,122 @@ Here are some club examples that can be used as inspiration:
 [Mozilla Cagliari Club.](http://mozillacagliariclub.edovio.com/) A project that organizes regular workshops and free events to increase Web literacy at all levels, in Cagliari, Italy.
 
 ![Imgur](http://i.imgur.com/OXtPaKo.jpg)
-Image: Club Leader Edoardo Viola, and participants. 
+Photo: Club Leader Edoardo Viola, and participants. 
 
-[Gambia Mozilla Club.] A project dedicated to Web Literacy that aims to support, mentor and inspire enthusiastic girls in The Gambia. The club has around 15 members, and 5 volunteers who contribute to facilitate the sessions. 
+[Gambia Mozilla Club.](https://thimbleprojects.org/angelj123/295718/) A project dedicated to Web Literacy that aims to support, mentor and inspire enthusiastic girls in The Gambia. The club has around 15 members, and 5 volunteers who contribute to facilitate the sessions. 
 
+![Imgur](http://i.imgur.com/5GAFnNE.jpg)
+Photo: participants of the Gambia Mozilla Club completing an activity. 
 
+[Mozilla Web Titans Club.](https://thimbleprojects.org/amira/75088/) A project that seeks to empower young women in Nairobi, Kenya by creating a multidisciplinary and safe space for informal learning and exchange of experiences around digital culture. 
 
+![Imgur](http://i.imgur.com/MazW7vx.jpg)
+Photo: a regular session of the Mozilla Web Titans Club
+
+[Mozilla Club Lookout Hill.](https://thimbleprojects.org/juliavallera/70909/) A project that seeks to empower local women in Cape Town, South Africa around digital world. The aim is to provide participants with the skills they need to become digital content producers so they can advance in their personal and professional lives.
+
+![Imgur](http://i.imgur.com/b89m9Q3.png)
+Photo:participation in Mozilla Club Lookout Hill. 
+
+[Mozilla Philippines Club.](https://thimbleprojects.org/carot/84658/) There are 20 active Mozilla Clubs in the Philippines, with a high number located in Manila. Each club has 10 to 15 members, and sessions are supported by 4 to 5 volunteers. They welcome a diverse audience, including adults, young professionals and youth under the age of 15. 
+
+![Imgur](http://i.imgur.com/5mJ1ret.png)
+Photos: Mozilla Philippines Club members. 
+
+**These are some tips and suggestions that help clubs succeed:**
+
+* Club Captains should try to recruit peers to help facilitate and organize events/gatherings.
+* Identify a space to host club events and gatherings. It can be a library, classroom, coffee shop, internet cafe, community space, a kitchen table, etc. Make sure the space is clean, accessible, safe and welcoming for your club members.
+* Prepare a plan in advance of every club event or gathering. Content may be drawn from the Internet Health Report, Web Literacy map, Learning curriculum, Activate page, Network website or anything else related to internet health.
+* Decide how Frequently the club will meet. This can be weekly, bi-weekly or monthly. Some meetings can happen virtually, but it is most beneficial for club participants to meet in person.
+* Recruit a diverse group of members to participate in your club. If a club has specific goals around gender inclusion, creating a safe space and/or age be intentional about how you recruit for the club.
+* Review the communication and branding guide and other guides for more tips on getting started with your club.
+
+# C. Clubs have one mission and multiple pathways
+
+Mozilla Clubs share Mozilla’s mission to “Protect the Open Web” and have the flexibility to follow different pathways in doing so. From advocacy campaigns to web literacy, club leaders inspire and engage people from their communities, fueling the movement in their various cultures and locals.
+
+They incorporate internet health issues like Privacy & Security, Open Innovation, Decentralization, Digital Inclusion and Web Literacy through a variety of activities such as:
+
+* Speaking at public events
+* Advocating on social media
+* Facilitating workshops
+* Organizing convenings
+* Leading study groups
+* Moderating discussions
+* Participating online (Mozilla-related forums, mailing lists, wikis, websites, chat channels)
 
 ### LESSON 2. Club Captain Role
-ACTIVITY
+![Imgur](http://i.imgur.com/sWhTi3N.jpg)
+Photo used under CC-BY-SA by Mozilla.
+
+Club Captains organize regular in-person gatherings that cultivate high-quality, participatory, and collaborative activities. Captains are crucial for the success of Mozilla Clubs.
+
+> **Outline**
+
+> A. What is a Club Captain?
+> B. Challenges and solutions Club Captains encounter
+> C. Support Club Captains get through the network
+> D. Examples of Club Captains 
+
+# A. What is a Club Captain?
+![Imgur](http://i.imgur.com/Pu0fH1V.jpg)
+Photo used under CC-BY-SA by Mozilla.
+
+Club Captain roles and responsibilities may vary in each club depending on it’s size and if there are any volunteers helping. Sometimes Captains act as facilitators, who are directly leading activities and events. Sometimes they organize and leave the facilitation to others. Either way they play a very important part in reaching the goals of the Club. We recommend that all Club Captains ensure that
+
+* Participants are learning about Internet Health using inclusive and participatory methods.
+* Participants are being empowered through engaging activities, peer learning and meaningful conversations through open practices.
+* They regularly share their experience and learning with the larger Mozilla Network.
+
+# B. Challenges and solutions Club Captains encounter 
+
+* **Defining an identity.** This is key to promote your club, attract participants and recruit volunteers. Creating a unique identity will help you to build credibility in case you plan to fundraise for it. Read this [Mozilla Clubs Comms Guidelines and Templates](http://mozilla.github.io/learning-networks/clubs/comms_template/).
+
+* **Finding a venue.** The place where your Club is going to take place is important. In the quest to find the perfect space, you may want to reach out to organizations such as libraries, coffee shops, schools, universities, community associations, etc. Once you find an adequate space you can:
+
+* **Inquire with someone at the organization.** Set an appointment to present your Club and what you'd like to do in the space.
+
+* **Prepare an agenda.** Organize a presentation about your Club, including the goals, audience, session's frequency, and possible benefits to the organization. Also, prepare questions about access, security, connectivity and available computers as is dictated by your Club's needs.
+
+* **Finding and recruiting volunteers and members.**
+
+- Make a list of potential members/facilitators. Start with your closest groups: friends, family, classmates, etc. and  those within your network who will find value in participating in the club.
+- Search on the web. Look for open communities of practice with shared interests in Internet Health and join their social media channels, and events, if possible.
+- Attend tech or education fairs and festivals. In these spaces you can meet people with common backgrounds and projects. Talk to them about your Club and discuss ways to connect.
+- Find projects that serve a need in your community. Think of ways your Mozilla Club can contribute. This will attract new people interested in supporting the initiative.
+- Organize a session. Once you have found potential attendees, invite them to an event and brainstorm Club goals together!
+
+Take a look at this creative expectation campaign from the Philippines Community to invite volunteers:
+
+![Imgur](http://i.imgur.com/H7BbPwe.png)
+
+* **Designing a plan.** Think about your participants backgrounds, interests and needs, the resources available (venue, connectivity and equipment), and coincidental schedules for all the actors involved. With that in mind write down a plan. Consider frequency of sessions, goals, and activities. Read this post about how Rio Mozilla Club plans their year. Also, check out this [Leao Mozilla Clubs mind map](https://www.mindmeister.com/628805014/le-o-mozilla-clubs-2016) about how they prepared for their year.
+
+* **Hold regular, face-to-face sessions.** Once you have established a venue, members, volunteers and a learning plan, get started! Make sure to keep your members motivated and engaged. Read and share [facilitation Tips](http://mozilla.github.io/participation-curriculum/facilitation-tips/index.html#introduction with participants and volunteers.
+
+* **Sharing with the world.** Keep posting about your experiences, events, volunteers, accomplishments and lessons learned. Read these guides about [Public Relations](http://mozilla.github.io/learning-networks/clubs/marketing-your-mozilla-club-pr-guide/) and [Social Media for marketing](http://mozilla.github.io/learning-networks/clubs/marketing-your-mozilla-club-social-media/) your Mozilla Club. Share event recaps on our [event reporter](http://mozilla.github.io/clubs-events/), [telegram](https://telegram.me/joinchat/BwUk1goEpt1QuBxsV_PyZQ), [discourse](https://forum.learning.mozilla.org/c/mozilla-clubs) and [Facebook group](https://www.facebook.com/groups/mozillaclubs/). 
+
+3. Support Club Captains get through the network
+
+Mozilla Club staff support Club Captains with
+
+    An active community of other Club Captains.
+    An online training platform.
+    Curriculum that’s free, open and educator-tested.
+    Guides and other useful resources.
+
+4. Clubs Captains examples
+
+Learn about the experience of Mark Shillitoe and Geraldo Barros, who are making an impact in their local community and beyond.
+
+**[Mark Shillitoe](https://github.com/shillontheroad)** is currently leading digital learning innovations and creativity at a new international school in Switzerland. Outside of formal classrooms innovation, Mark has helped indigenous students in the Amazon with mobile storytelling and has extensive makerspace experience as he leads the very first Mozilla Club in Switzerland!
+
+**[Chris Otta](https://github.com/ottagit)** is Mozilla Maseno’s Club Captain and he is currently building a community of open source contributors. He works on Web literacy teaching version control and collaborative software development using Git and GitHub to students of Maseno University, in Kenya.
+
+**[Edoardo Viola](http://edovio.github.io)** is a Technical Office Manager for a little Biotech Corp and a Tutor within the University of Cagliari in Italy. Besides him formal activities, he's a singer, a community coach and help the citizens to build and improve their digital skills as he leading the very first Mozilla Club in Italy! 
+
+### ACTIVITY
 
 ## MODULE 3. BEST PRACTICES FOR RUNNING LOCAL EVENTS
 ### LESSON 1. The impact of participant- centered activities
@@ -378,5 +483,5 @@ LESSON 3. Designing hands on activities
 LESSON 4. How to be Participatory & Inclusive
 ACTIVITY
 
-## NEXT STEPS
+## Next steps
 
