@@ -122,6 +122,9 @@ function positionNav(){
 function buildContent(html){
   var pageTitle;
 
+  $("article").attr("id","introduction");
+  $("nav").append("<a class='selected' href='#introduction'>Introduction</a>");
+
   $(html).each(function(i,el){
 
     // Loops through all of the elements in the page
@@ -185,7 +188,12 @@ function getContent(){
 // Highlights a section in the left-side navigation
 
 function selectSection(id){
- 
+  if(sections.indexOf(id) < 0){
+    id = "introduction";
+  }
+
+  $("nav .selected").removeClass("selected");
+  $("nav a[href=#"+id+"]").addClass("selected");
 
   if(window.history.replaceState) {
     window.history.replaceState(null, null, "#" + id);
