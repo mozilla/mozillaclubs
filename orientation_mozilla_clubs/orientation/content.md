@@ -459,10 +459,10 @@ Take a look at this creative expectation campaign from the Philippines Community
 
 Mozilla Club staff support Club Captains with
 
-    An active community of other Club Captains.
-    An online training platform.
-    Curriculum that’s free, open and educator-tested.
-    Guides and other useful resources.
+* An active community of other Club Captains.
+* An online training platform.
+* Curriculum that’s free, open and educator-tested.
+* Guides and other useful resources.
 
 ### D. Clubs Captains examples
 
@@ -527,9 +527,61 @@ In [this blog post](https://www.edutopia.org/blog/connected-classroom-informatio
 
 In [this article](http://blog.bettercom.com/business-writing-advice/bid/84895/A-reader-centered-approach-to-social-media-writing) you will learn how to engage your readers by considering your readers needs, in order to attract their attention, help them understand your material, and ensure that their time is valued. 
 
+# LESSON 2. How to plan for fun and engaging events
+![Imgur](http://i.imgur.com/cBDWFws.jpg)
+[Photo: Mozilla Flickr used under CC-BY-SA by Mozilla.](https://www.flickr.com/photos/mozilladrumbeat/19963768210/)
+
+Mozilla Clubs are open, playful, and fun for those attending and facilitating. In addition to teaching and learning, Club leaders are empowering people to excel in their area of inquiry and expertise.
+
+>Outline
+
+> A. Why fun is an important element for a Club?
+> B. Key ideas on how to incorporate fun and exploration into Mozilla Clubs.
+> C. Examples of fun & explorative approaches.
+
+### A. Why fun is an important element for a Club?
+
+*“[...] [research](https://sanwen8.cn/p/43eZlND.html) has repeatedly shown that the benefits associated with play are profound and wide-ranging. Following a meta-analysis of 800 studies, […] there was cogent evidence for the positive impact of play on developmental outcomes. Play was found to significantly promote cognitive and social aspects of development."*
+
+In Mozilla Clubs, we understand that playfulness goes beyond the concept of "entertainment", and takes advantage of this special human capacity to explore and understand the world through "playing". It recognizes that we are not only Homo Sapiens, but also Homo Ludens "Man the Player".
+
+[“Games are an integral part of all cultures and are one of the oldest forms of human social interaction, from the ancient Greek Olympics to current computer games. Throughout history, games have a big impact on how we leverage strategy, rules and many life activities.”](https://en.wikipedia.org/wiki/History_of_games)
+
+![Imgur](http://i.imgur.com/YCp0cQP.jpg)
+["Evolution", Image by Divianarts](http://www.divianarts.com/59192)
+
+While the game tends to disappear in most of adult mammals, it persists and even evolves in the human adult world according to multiple modes, and is supported by specific institutions. 
+
+### B. Key ideas on how to incorporate fun and exploration into Mozilla Clubs
+
+* Incorporate humor as an engagement strategy. Explore simple humor techniques to help maintain a joyful experience.
+
+* If your club focuses on Web Literacy, search for fun teaching activities. Explore Mozilla teaching activities which are strategically designed to be engaging and fun when teaching how to read, write and participate on the web. These activities have been tested in schools, after school programs, libraries and community centers around the globe.
+
+* Explore existing games or [create your](https://mozteach.makes.org/thimble/a-beginners-guide-to-game-makery) own to assure a fun and engaging experiences.
+
+* Use [icebreakers](http://www.icebreakers.ws/) and micro-activities. Many experienced Club leaders talk about including these in their sessions as an effective way to help people get to know each other.
+
+Keep participants on their feet and moving. Mind and body are connected, which is why performing activities that involve motion will help release students from a passive posture and engage them physically and energetically. Try activities like [Ali Baba and the Forty Thieves](https://michelle.makes.org/thimble/MTU0MjcxNzQ0MA==/ali-baba-and-the-40-thieves), or [How to Hack the Robot Dance](https://mozteach.makes.org/thimble/how-to-hack-the-robot-dance).
+
+### C. Examples on the Fun & Exploratory approach 
+
+[1: Comics for Social Change](http://www.ucdvo.org/t4cms/Comics-for-Social-Change.pdf)
+
+Learn from the experience of Grassroots Comics, and organization which uses illustration to introduce important messages on social justice. They are drawn by individuals and community groups.
+
+[2: “Open world, open web” using games for learning](https://learning.mozilla.org/blog/open-world-open-web)
+
+Mozilla participated in a gaming session for a Hackathon in Charlottesville, VA in which participants formed teams to tackle real-world problems. Chad Sansing, Curriculum Developer at Mozilla, and facilitator of this session said, "The prototypes our groups presented delivered everything I hoped for from the event. With minimal big picture coaching on the Open Web and targeted technical help from a few mentors, our teams captured their ideas about online freedom, openness, and privacy. At the end the consensus among the judges seemed to be that the quality of work produced by attendees rivaled that of undergraduate students working in areas like computer science and biomedical engineering". 
+
+### Other resources...
+
+* [Mozilla Club Guide: Encouraging Participatory & Playful Learning](http://mozilla.github.io/learning-networks/clubs/encouraging-participatory-playful-learning/)
+* [What Video Games Have to Teach Us About Learning and Literacy](http://www.skatekidsonline.com/parents_teachers/Good_Video_Games_and_Good_Learning_Updated.pdf)
+* [Homo Ludens by Johan Huizinga](http://art.yale.edu/file_columns/0000/1474/homo_ludens_johan_huizinga_routledge_1949_.pdf)
+* [Stuart Brown: Play is more than just fun (Adults)](https://www.ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital?language=en)
 
 
-LESSON 2. How to plan for fun and engaging events
 LESSON 3. Designing hands on activities
 LESSON 4. How to be Participatory & Inclusive
 ACTIVITY
