@@ -581,8 +581,62 @@ Mozilla participated in a gaming session for a Hackathon in Charlottesville, VA 
 * [Homo Ludens by Johan Huizinga](http://art.yale.edu/file_columns/0000/1474/homo_ludens_johan_huizinga_routledge_1949_.pdf)
 * [Stuart Brown: Play is more than just fun (Adults)](https://www.ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital?language=en)
 
+# LESSON 3. Designing hands on activities
 
-LESSON 3. Designing hands on activities
+![Imgur](http://i.imgur.com/tYDt5FW.jpg)
+[Photo: Flickr used under CC-BY-SA by Mozilla.](https://www.flickr.com/photos/mozilladrumbeat/)
+
+Mozilla Clubs promote experiences that are goal-oriented, hands-on, and designed to support work that further open source projects and research. 
+
+> Outline
+
+> A. What is a hands-on approach?
+> B. Key ideas about hands-on practices.
+> C. Examples of hands-on activities
+
+### A. What is learning by making? (25 min)
+
+Humans have a history of making. We cook, sew, build, write, play music, paint, tell stories, etc. In many ways making is how we learn about our environment and create solutions for challenges we face in everyday life. It is also one of the many ways we express ourselves. By continuously sharing what we make with others we get feedback on how to improve our ideas. Throughout the making process, we learn, connect with people, and shape our reality. And gain new skills in the process.
+
+**Is this approach all about MAKING STUFF?**
+
+In this [video](https://vimeo.com/136525046), the Agency by Design (AbD), explains how the maker empowerment concept is not just about people simply making things, but rather they are empowered to see the world and its systems as things that have been designed. Therefore, they understand that these designs can be tweaked, hacked, re-envisioned, etc. The intention of the making approach is that learners can come to feel empowered, and have a sense of agency over the things in their world.
+
+### B. Key ideas about "Hands-on" practices
+
+From activism campaigns to Web Literacy sessions, hands-on activities will help your participants to be more focused and engaged. It also unlocks different ways of participation for all types of personalities (introverted and extroverted).
+
+These are some recommendations for you to follow if you’re planning to have some makey makey activities in your events:
+
+* Create a repository of makey activities. It is always good to have a large bank of resources to consult for your Club. Where can you find them? Explore [Mozilla Teaching Activities](https://teach.mozilla.org/activities), design your customized activities, or do your own research on the web; there are tons of open activities that other educators have successfully tried. Take a look of [Codedojo](http://kata.coderdojo.com/wiki/Learning_Resource), [Code.org](https://code.org/educate), [Hour of Code](https://hourofcode.com/us/how-to), and [Made with Code](https://www.madewithcode.com/).
+
+* Incentivize the maker mind. By thinking critically about the daily-life objects that surround us, you can learn from them. Bring an object to a session and ask your participants to wonder and brainstorm about its design and functionality. Watch [this video](https://www.youtube.com/watch?v=cI2cMyOZVgE) to see some samples.
+
+* Select projects to address community challenges . Design projects for your club in which participants can learn new tools, improve digital skills, do local community research, and design creative solutions to address specific problems. Watch [this video](https://www.youtube.com/watch?v=LMCZvGesRz8) that illustrates how to address daily life problems using PBL.
+
+* Plan for mistakes. In our everyday life, we learn from our mistakes. We can simulate this in structured experiences by offering context-sensitive feedback during games, reviews and tests.
+
+* Facilitate exploration. Provide resources, references, videos and podcasts for personal exploration. Exploration provides an opportunity to construct knowledge in a way that is meaningful for each learner.
+
+
+### C. Examples of the Hands-on activities 
+
+[1: Ride with me to London](http://inpoints.org/index.php/2016/02/11/ride-with-me-to-london/)
+
+This is the story of Marina Malone, a senior at a Chicago public school, who, despite having almost no prior experience with coding, helped develop an app that she presented at MozFest 2015 in London, a web and tech festival where people from all over come to the show their latest ideas and meet like-minded creators.
+
+[2: Maker Party Week Campinas 2016: copyright, art and learning](https://leaomozillaclubs.com/maker-party-week-campinas-2016-direito-autoral-arte-e-aprendizado-e9a4b421dffd)
+
+In this Blogpost Geraldo Barros from Brazil, shares a creative way to learn about copyright by having people to make artwork, and asking them to choose the licenses for their own projects. 
+
+Other resources...
+
+* [An academic review of Project Based Learning from 2000](http://www.bobpearlman.org/BestPractices/PBL_Research.pdf)
+* [Article describing issues that come along with Maker culture](http://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)
+* [An overview of Agency by Design and the rise of maker-centered education](https://www.gse.harvard.edu/news/uk/14/10/learning-making)
+* [An argument for why learning through making is the best kind of education](https://blog.webmaker.org/learning-through-making-the-best-kind-of-education)
+
+
 LESSON 4. How to be Participatory & Inclusive
 ACTIVITY
 
