@@ -662,10 +662,73 @@ This perspective helps us address the challenge of inclusion from a more compreh
 * A set of videos shared by Facebook on how to recognize our biases so we can reduce their negative effects in the workplace
 * A video about a growing body of research around unconscious bias, led by scientists at Google Work.
 
+** Rethinking inclusion**
 
-Rethinking inclusion
+As club leaders we must learn to give every participant equal opportunities to reach their full potential. In [this video](https://youtu.be/SS7ID8VClko), Quinetta Roberson brings a new perspective to address inclusion by focusing on the contribution that each human being can make from his or her own skills, background, and knowledge. 
 
-As club leaders we must learn to give every participant equal opportunities to reach their full potential. In the following video, Quinetta Roberson brings a new perspective to address inclusion by focusing on the contribution that each human being can make from his or her own skills, background, and knowledge. 
+An approach like this suggests that inclusion becomes real when all the members of your class, club, community, find a way to participate and contribute. Club Leaders should do their best todesign effective mechanisms to guarantee participation. If we think of ways to enable every learner to contribute, the larger community will benefit. 
+
+Also see these guides about diversity and inclusion:
+
+* [Learn how to create safe and convenient learning spaces for women and girls](http://mozilla.github.io/learning-networks/clubs/events-women-girls-guide/#introduction)
+* [Explore some Inclusive Teaching Strategies to address gender, disabilities, violence issues](https://cft.vanderbilt.edu//cft/guides-sub-pages/diversity/)
+
+### B. Key ideas to make your Mozilla Club inclusive and participatory
+
+Cultivate inclusion self-awareness. Try to understand your own weaknesses and strengths in order to become more aware of inclusion risks and opportunities:
+
+* Recognize any hot buttons/biases or stereotypes you may have. Learn how to identify them by completing the activity at the end of the lesson.
+* Be sensitive to terminology that refers to specific ethnic and cultural groups.
+* Become more informed about the history and culture of people in your club.
+* Select websites and articles whose language is gender-neutral and free of stereotypes.
+* Get to know each student. Learn their names and how to pronounce them correctly.
+* Make it safe for everyone to voice their views by accepting all views and perspectives
+* Present different sides of an issue.
+* Be prepared to deal with conflicts of opinion or interest.
+
+- Read [this article](http://bokcenter.harvard.edu/managing-hot-moments-classroom) on how to handle difficult situations in a learning setting.
+
+### C. Examples of Participatory and Inclusive environments
+
+1: [We’re on a Mission to Make Rwanda Web Literate](https://medium.com/read-write-participate/were-on-a-mission-to-make-rwanda-web-literate-a6fcb11f5610)
+
+This Blog Post describes the experience of Mozilla working with allies on the Digital Ambassadors Program, to train and equip thousands of youth leaders with the skills and knowledge to teach web literacy in low-resourced areas across the country.
+
+2: [Finland's Education System](http://www.smithsonianmag.com/innovation/why-are-finlands-schools-successful-49859555/)
+
+Only three decades ago, Finland found itself struggling with an educational system that was facing difficulty. Now, it is an education superpower, valuing inclusion and equality more than excellence. Educators are focused on developing individual's gifts, interests, passions, and goals and connecting them with real life challenges.VIDEO
+
+Some of their principles:
+
+1. Equality. There are no elite schools. Each school has absolutely the same equipment, features and proportional financing. Intensive studying of certain subjects is not welcome. It is not believed that mathematics is more important than, for example, art. There are no “bad” and “good” pupils. Comparison of pupils with others is prohibited.
+
+2. Individuality. For each child, an individual plan of training is developed.
+
+3. Practicality. Finns say: “Either we prepare children for life, or for the exams. We choose the first.” Therefore examinations in Finnish schools don’t exist. There is only one mandatory standard test at the end of secondary school.
+
+4. Independence. The Finns believe that schools should teach a child to get ready for an independent, successful life. Therefore, they are taught to think and acquire knowledge on their own. 
+
+- Read this article on how to handle difficult situations in a learning setting.
+
+3. Examples of Participatory and Inclusive environments
+
+1: We’re on a Mission to Make Rwanda Web Literate
+
+This Blog Post describes the experience of Mozilla working with allies on the Digital Ambassadors Program, to train and equip thousands of youth leaders with the skills and knowledge to teach web literacy in low-resourced areas across the country.
+
+2: Finland's Education System
+
+Only three decades ago, Finland found itself struggling with an educational system that was facing difficulty. Now, it is an education superpower, valuing inclusion and equality more than excellence. Educators are focused on developing individual's gifts, interests, passions, and goals and connecting them with real life challenges.VIDEO
+
+Some of their principles:
+
+1. Equality. There are no elite schools. Each school has absolutely the same equipment, features and proportional financing. Intensive studying of certain subjects is not welcome. It is not believed that mathematics is more important than, for example, art. There are no “bad” and “good” pupils. Comparison of pupils with others is prohibited.
+
+2. Individuality. For each child, an individual plan of training is developed.
+
+3. Practicality. Finns say: “Either we prepare children for life, or for the exams. We choose the first.” Therefore examinations in Finnish schools don’t exist. There is only one mandatory standard test at the end of secondary school.
+
+4. Independence. The Finns believe that schools should teach a child to get ready for an independent, successful life. Therefore, they are taught to think and acquire knowledge on their own. 
 
 # ACTIVITY
 
