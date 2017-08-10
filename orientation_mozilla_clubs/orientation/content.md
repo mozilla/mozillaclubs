@@ -629,16 +629,45 @@ This is the story of Marina Malone, a senior at a Chicago public school, who, de
 
 In this Blogpost Geraldo Barros from Brazil, shares a creative way to learn about copyright by having people to make artwork, and asking them to choose the licenses for their own projects. 
 
-Other resources...
+### Other resources...
 
 * [An academic review of Project Based Learning from 2000](http://www.bobpearlman.org/BestPractices/PBL_Research.pdf)
 * [Article describing issues that come along with Maker culture](http://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)
 * [An overview of Agency by Design and the rise of maker-centered education](https://www.gse.harvard.edu/news/uk/14/10/learning-making)
 * [An argument for why learning through making is the best kind of education](https://blog.webmaker.org/learning-through-making-the-best-kind-of-education)
 
+# LESSON 4. How to be Participatory & Inclusive
+![Imgur](http://i.imgur.com/p2zhxLY.jpg)
+[Photo by Rio Mozilla Club used under CC BY by Mozilla Clubs](http://riomozillaclub.org/)
 
-LESSON 4. How to be Participatory & Inclusive
-ACTIVITY
+In Mozilla Clubs, we're thoughtful about our community members and respectful of differences. We aim to understand each other's motivations, needs, and challenges in order to create experiences that work well for everyone.
+
+> Outline
+
+> A. What do we understand about inclusive environments?
+> B. Rethinking inclusion
+> C. Teachable experience
+
+### A. What are inclusive environments?
+
+Social scientists use the term “inclusion” to describe environments where individuals, regardless of demographics, backgrounds or experiences feel valued, respected, and have the possibility to reach their full potential. In short, inclusive environments are those in which people feel accepted and have equal access to opportunities. 
+
+In [this video](https://youtu.be/zdV8OpXhl2g), Helen Turnbull, an inclusion expert, explains how our "blind spots" can drive us–even if we're well-intentioned–to perform exclusionary practices based on affinity biases.
+
+This perspective helps us address the challenge of inclusion from a more comprehensive perspective, and allows us to design more effective strategies.
+
+** More resources about unconscious bias:**
+
+* A report that describes unconscious bias from the perspective of Asap SCIENCE.
+* A set of videos shared by Facebook on how to recognize our biases so we can reduce their negative effects in the workplace
+* A video about a growing body of research around unconscious bias, led by scientists at Google Work.
+
+
+Rethinking inclusion
+
+As club leaders we must learn to give every participant equal opportunities to reach their full potential. In the following video, Quinetta Roberson brings a new perspective to address inclusion by focusing on the contribution that each human being can make from his or her own skills, background, and knowledge. 
+
+# ACTIVITY
 
 ## Next steps
 
