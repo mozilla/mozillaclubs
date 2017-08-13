@@ -698,39 +698,38 @@ This Blog Post describes the experience of Mozilla working with allies on the Di
 
 Only three decades ago, Finland found itself struggling with an educational system that was facing difficulty. Now, it is an education superpower, valuing inclusion and equality more than excellence. Educators are focused on developing individual's gifts, interests, passions, and goals and connecting them with real life challenges.VIDEO
 
-Some of their principles:
+**Some of their principles:**
 
-1. Equality. There are no elite schools. Each school has absolutely the same equipment, features and proportional financing. Intensive studying of certain subjects is not welcome. It is not believed that mathematics is more important than, for example, art. There are no “bad” and “good” pupils. Comparison of pupils with others is prohibited.
+**1. Equality.** There are no elite schools. Each school has absolutely the same equipment, features and proportional financing. Intensive studying of certain subjects is not welcome. It is not believed that mathematics is more important than, for example, art. There are no “bad” and “good” pupils. Comparison of pupils with others is prohibited.
 
-2. Individuality. For each child, an individual plan of training is developed.
+**2. Individuality.** For each child, an individual plan of training is developed.
 
-3. Practicality. Finns say: “Either we prepare children for life, or for the exams. We choose the first.” Therefore examinations in Finnish schools don’t exist. There is only one mandatory standard test at the end of secondary school.
+**3. Practicality.** Finns say: “Either we prepare children for life, or for the exams. We choose the first.” Therefore examinations in Finnish schools don’t exist. There is only one mandatory standard test at the end of secondary school.
 
-4. Independence. The Finns believe that schools should teach a child to get ready for an independent, successful life. Therefore, they are taught to think and acquire knowledge on their own. 
+**4. Independence.** The Finns believe that schools should teach a child to get ready for an independent, successful life. Therefore, they are taught to think and acquire knowledge on their own. 
 
-- Read this article on how to handle difficult situations in a learning setting.
 
-3. Examples of Participatory and Inclusive environments
 
-1: We’re on a Mission to Make Rwanda Web Literate
+# ACTIVITIES
 
-This Blog Post describes the experience of Mozilla working with allies on the Digital Ambassadors Program, to train and equip thousands of youth leaders with the skills and knowledge to teach web literacy in low-resourced areas across the country.
+1. Read [this article](http://www.smartclassroommanagement.com/2012/01/28/8-things-teachers-do-to-cause-boredom/) about the things teachers do to BORE their students. Taking the concepts you learned in this lesson, and using Mozilla tool [X-Ray Googles](https://goggles.mozilla.org/), transform the article to a positive version, starting with the title: "8 things facilitators do to ENGAGE their learners". Share your link with the remixed article in the Discussion box below.
 
-2: Finland's Education System
+2. Test your own unconscious bias. This will help you to become aware and monitor hidden attitudes before they are expressed through behavior.
 
-Only three decades ago, Finland found itself struggling with an educational system that was facing difficulty. Now, it is an education superpower, valuing inclusion and equality more than excellence. Educators are focused on developing individual's gifts, interests, passions, and goals and connecting them with real life challenges.VIDEO
+Go to [implicit.harvard.edu](https://implicit.harvard.edu/implicit/takeatest.html) Select your language and click go (sign in as guest). Select the topics you want to test yourself.
 
-Some of their principles:
-
-1. Equality. There are no elite schools. Each school has absolutely the same equipment, features and proportional financing. Intensive studying of certain subjects is not welcome. It is not believed that mathematics is more important than, for example, art. There are no “bad” and “good” pupils. Comparison of pupils with others is prohibited.
-
-2. Individuality. For each child, an individual plan of training is developed.
-
-3. Practicality. Finns say: “Either we prepare children for life, or for the exams. We choose the first.” Therefore examinations in Finnish schools don’t exist. There is only one mandatory standard test at the end of secondary school.
-
-4. Independence. The Finns believe that schools should teach a child to get ready for an independent, successful life. Therefore, they are taught to think and acquire knowledge on their own. 
-
-# ACTIVITY
+Did you learn anything about yourself? Share any reflections in the forum below. (You don't have to publish your results).
 
 ## Next steps
+
+Congratulations, you finished the Mozilla Clubs Training Module! We are excited to have you as a member of our Mozilla Clubs network and we look forward to providing on-going support to help you teach the Web in your local community.
+Connect with our network of global leaders:
+
+* [On Discourse.](https://discourse.webmaker.org/c/mozilla-clubs) Share ideas, ask questions and get feedback from Club Captains or Regional Coordinators.
+* During our monthly [community call](https://teach.mozilla.org/community/community-call) and [curriculum workshop](https://teach.mozilla.org/community/curriculum-workshop) where you can listen, share and create with others.
+Through our newsletters, emails and curriculum announcements. Be sure to [register your club](https://teach.mozilla.org/clubs) and visit learning.mozilla.org to get access to all our happenings.
+Complete the [Open Leadership Training 101](http://mozilla.teachable.com/p/open-leadership-101)
+
+Thanks for teaching and learning with us! We can't wait to see your club in action.
+
 
