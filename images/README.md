@@ -1,6 +1,6 @@
 # Mozilla Clubs images folder
 
-Find nice images to use in your club's assets, share cool pictures for othes to use!
+Find nice images to use in your club's assets and/or share cool pictures for othes to use!
 
 * Explore some  of our Several Various Albums: https://www.flickr.com/photos/amirad
 * Take a look of this cool gallery full of Mozilla's branded pics
