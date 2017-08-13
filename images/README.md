@@ -3,9 +3,7 @@
 Find nice images to use in your club's assets and/or share cool pictures for othes to use!
 
 * Explore some  of our Several Various Albums: https://www.flickr.com/photos/amirad
-* Take a look of this cool gallery full of Mozilla's branded pics
-
-You are welcome to use this images under the [Mozilla Public License 2.0](https://github.com/mozilla/mozillaclubs/blob/master/LICENSE)
+* Take a look of this cool gallery full of Mozilla's branded pics. You are welcome to use this images under the [Mozilla Public License 2.0](https://github.com/mozilla/mozillaclubs/blob/master/LICENSE)
 
 ![Imgur](http://i.imgur.com/F3w23cW.png)
 ![Imgur](http://i.imgur.com/Wj9FuPR.jpg)
