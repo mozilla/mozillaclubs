@@ -20,4 +20,4 @@ These are the themes we're already working on. Feel free to add an issue in case
 Images.  Find design resources created by community members which you can use, remix and share.
 * [Club Guides.](https://github.com/mozilla/mozillaclubs/tree/master/club_guides) This folder contains Mozilla Clubs guides & resources developed in collaboration with community members. 
 * [Orientation for Mozilla Clubs.](https://github.com/mozilla/mozillaclubs/tree/master/orientation_mozilla_clubs) This is the Orientation that Mozilla Club Leaders take at mozilla.teachable.com, 
-* [Teaching activities.])https://github.com/mozilla/mozillaclubs/tree/master/Teaching_activities) This folder is intended to hold curriculum created by communitiy members. You can and and share any activities you have used/developed for your club. 
+* [Teaching activities.](https://github.com/mozilla/mozillaclubs/tree/master/Teaching_activities) This folder is intended to hold curriculum created by communitiy members. You can and and share any activities you have used/developed for your club. 
