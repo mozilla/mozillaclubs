@@ -12,5 +12,12 @@ Mozilla Clubs also has a [Facebook group](https://www.facebook.com/groups/mozill
 
 ## Participate on the Repo
 
-In this Repository Clubs leaders can find, share, comment and remix projects around Design resources
-and Teaching activities for Mozilla Clubs.  
+In [this Repository](https://github.com/mozilla/mozillaclubs) Clubs leaders can find, share, comment and remix projects around Design resources and Teaching activities for Mozilla Clubs.  
+
+These are the themes we're already working on. Feel free to add an issue in case you want to start a new one!
+
+Desing resources. 
+[Club Guides.](https://github.com/mozilla/mozillaclubs/tree/master/designresources) Find design resources created by community members which you can use, remix and share.
+Images. 
+Orientation for Mozilla Clubs. 
+Teaching activities. 
