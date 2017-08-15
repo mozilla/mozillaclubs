@@ -31,7 +31,7 @@ Your new page will be available at
 
 Here is a handy **[Markdown Guide](http://mozilla.github.io/learning-networks/clubs/markdown-guide/)** to help you with formatting your content.
 
-### Changing the name of the folder
+### Changing the name of the folder 
 Unfortunately, you can't do this within the Github UI, so you'll have to upload another folder with the correct name.
 * You can delete the original folder by using the Github UI to delete the files within in (see below)
 
