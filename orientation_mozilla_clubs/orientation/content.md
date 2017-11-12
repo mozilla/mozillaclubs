@@ -722,13 +722,7 @@ Did you learn anything about yourself? Share any reflections in the forum below.
 
 ## Next steps
 
-Congratulations, you finished the Mozilla Clubs Training Module! We are excited to have you as a member of our Mozilla Clubs network and we look forward to providing on-going support to help you teach the Web in your local community.
-Connect with our network of global leaders:
-
-* [On Discourse.](https://discourse.webmaker.org/c/mozilla-clubs) Share ideas, ask questions and get feedback from Club Captains or Regional Coordinators.
-* During our monthly [community call](https://teach.mozilla.org/community/community-call) and [curriculum workshop](https://teach.mozilla.org/community/curriculum-workshop) where you can listen, share and create with others.
-Through our newsletters, emails and curriculum announcements. Be sure to [register your club](https://teach.mozilla.org/clubs) and visit learning.mozilla.org to get access to all our happenings.
-Complete the [Open Leadership Training 101](http://mozilla.teachable.com/p/open-leadership-101)
+Congratulations, you finished the Mozilla Clubs Training Module! 
 
 Thanks for teaching and learning with us! We can't wait to see your club in action.
 
