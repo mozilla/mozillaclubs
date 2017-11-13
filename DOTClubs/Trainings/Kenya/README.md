@@ -1,4 +1,4 @@
-# Mozilla DOT Club Leader Training March 2017
+## Below is the training packet used for Clubs training in Nairobi, Kenya in March, 2017.
 
 ## Background
 A description of the benefits of the Mozilla Clubs initiative and why Clubs are an integral component of the DOT Digital Champion program. 
