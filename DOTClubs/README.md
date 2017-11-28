@@ -7,7 +7,7 @@ Thank you for visiting the Mozilla DOT Clubs repository.
 This document (the README file) is a hub to provide information about the project and to archive the materials so they can be used further.
 
 ![alt tag](https://github.com/jvallera/MozillaDOTClubs/blob/master/images/Kenyagroup.jpg "Mozilla DOT Clubs Training in Nairobi, Kenya 2017")
-*** The picture above features former Mozilla Club staff and DOT Leaders during a DOT Leadership Training in Nairobi, Kenya in March 2017***
+***The picture above features former Mozilla Club staff and DOT Leaders during a DOT Leadership Training in Nairobi, Kenya in March 2017***
 
 Between 2016 and 2017 [Mozilla Clubs](https://learning.mozilla.org/en-US/clubs) and [Digital Opportunity Trust (DOT)](https://www.dotrust.org/) partnered to bring key leadership and web literacy skills to communities in Kenya, Tanzania, Rwanda, Jordan and Lebanon. Our objective was to launch more than 30 Mozilla Clubs that teach how to read, write and participate on the web in an inclusive and engaging way. We collaborated with DOT interns and staff to increase the number of informed, active digital citizens in several [DOT locations](https://www.dotrust.org/countries). This was an evolving project with a growing number of collaborators, which include DOT staff, Mozilla staff and community volunteers. 
 
