@@ -36,6 +36,17 @@ Table of Contents (ToC)
 * [<sub>Teaching activities.</sub>](https://github.com/mozilla/mozillaclubs/tree/master/Teaching_activities) <sub>This folder is intended to hold curriculum created by communitiy members. You can and and share any activities you have used/developed for your club.</sub> 
 
 ---
+## Thank you
+
+Thank you so much for visiting and partcipating in Mozilla Clubs. We hope you find this repository helpful and use it in ways that help move your work forward. 
+
+## Glossary
+
+* **README file**: a document that introduces an open project to the public and any potential contributors
+* **repository** or **repo**: a collection of documents related to your project, in which you create and save new code or content
+* **Roadmap**: a document outlining the schedule of work to be done on a project
+* **Milestone**: an event or state marking a specific stage in development on the project
+* **Issue**: the GitHub term for tasks, enhancements, and bugs for your projects
 
 <img src="https://pbs.twimg.com/profile_images/821735271049768960/jJZXlJwZ.jpg" width="50"></img> 
 <img src="https://orig00.deviantart.net/5b95/f/2016/070/3/b/mit_license_logo_by_excaliburzero-d9ur2lg.png" width="70"></img> 
