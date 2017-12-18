@@ -17,7 +17,6 @@ Between 2016 and 2017 [Mozilla Clubs](https://learning.mozilla.org/en-US/clubs) 
 * [Mozilla DOT Clubs Training Packet](https://docs.google.com/document/d/1dnespZr0nmweFCgEvTeXx63I6j1JsYj58tE9Q1FtlaA/edit?usp=sharing)
 * [Mozilla DOT Clubs Leadership Training in East Africa](https://thimbleprojects.org/juliavallera/240448/)
 * [Blog Post](https://medium.com/@amirad/training-leaders-with-mozilla-in-nairobi-and-dar-es-salaam-cae38f1ed12e)
-* [Google Folder (Permission to access required)](https://drive.google.com/drive/folders/0B5ga06pZVp55b2VGRlJXS2libXc?usp=sharing)
 
 ## Thank you
 
